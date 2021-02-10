@@ -71,8 +71,8 @@
                                 </ul>
                             </li>
                             <li><a href="<?php echo base_url(); ?>resume-sample">Resume Samples</a></li>
-                            <li><a href="<?php echo base_url(); ?>pricing.php">Pricing</a></li>
-                            <li><a href="<?php echo base_url(); ?>reviews.php">Reviews</a></li>
+                            <li><a href="<?php echo base_url(); ?>pricing">Pricing</a></li>
+                            <li><a href="<?php echo base_url(); ?>reviews">Reviews</a></li>
                             <li><a href="javascript:;" class="btn-org fill viewMain" tabindex="-1" onclick="order_now_value(this)" name="for $149">Get Started</a></li>
                         </ul>
                     </div>

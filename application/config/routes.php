@@ -7,9 +7,17 @@ $route['sitemap\.xml'] = "Sitemap";
 $route['404_override'] = 'home/error';
 $route['translate_uri_dashes'] = FALSE;
 
-$route['signup'] = "home/signup";
-$route['signin'] = "home/signin";
-$route['register_action'] = "home/register_action";
+$route['about-us'] = "home/about";
+$route['resume-writing'] = "home/resume_writing";
+$route['cover-letter-writing'] = "home/cover_letter_writing";
+$route['linkedin-profile-writing'] = "home/linkedin_profile_writing";
+$route['career-coaching'] = "home/career_coaching";
+$route['job-profiling'] = "home/job_profiling";
+$route['career-coaching-service'] = "home/career_coaching_service";
+$route['webpage-resume'] = "home/webpage_resume";
+$route['resume-sample'] = "home/resume_sample";
+$route['pricing'] = "home/pricing";
+$route['reviews'] = "home/reviews";
 
 $route[ADMINURL.'accounts/chagne_order'] = "admin/accounts/chagne_order";
 $route[ADMINURL.'cms/chagne_order'] = "admin/cms/chagne_order";

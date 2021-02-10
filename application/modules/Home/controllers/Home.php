@@ -9,14 +9,18 @@ class Home extends MX_Controller {
         $this->load->library('form_validation');
         $this->load->model('Home_Model');
     }
-    public function index()
-    {
-
-
-     $this->theme->view('index');
-
-
-    }
+    public function index() { $this->theme->view('index');  }
+    public function about() { $this->theme->view('about');  }
+    public function resume_writing() { $this->theme->view('resume_writing'); }
+    public function cover_letter_writing() { $this->theme->view('cover_letter_writing'); }
+    public function linkedin_profile_writing() { $this->theme->view('linkedin_profile_writing'); }
+    public function career_coaching() { $this->theme->view('career_coaching'); }
+    public function job_profiling() { $this->theme->view('job_profiling'); }
+    public function career_coaching_service() { $this->theme->view('career_coaching_service'); }
+    public function webpage_resume() { $this->theme->view('webpage_resume'); }
+    public function resume_sample() { $this->theme->view('resume_sample'); }
+    public function pricing() { $this->theme->view('pricing'); }
+    public function reviews() { $this->theme->view('reviews'); }
 
     public function contact()
     {
