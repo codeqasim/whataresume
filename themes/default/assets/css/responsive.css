@@ -1,0 +1,3138 @@
+@media  (max-width:320px){
+
+
+}
+
+
+
+@media  (min-width:320px) and (max-width:480px){
+
+
+}
+
+@media (min-width:320px) and (max-width:767px){
+	.wow {
+	    animation-name: none !important;
+	    visibility: visible !important;
+	}
+
+	.navbar-collapse.in {
+	    overflow-y: auto;
+	    border-top: 1px solid #fc5216;
+	}
+	section.vid_testimonial {
+    min-height: auto;
+    height: auto;
+    margin-bottom: 0;
+	}
+	.video-testi-img.vid-tst-1 {
+    margin-bottom: 20px;
+	}
+
+	.head_top .navbar.navbar-defult ul li a {
+	    font-size: 15px;
+	    display: table;
+	    margin: auto;
+	    padding-bottom: 10px;
+	}
+	.header-top ul {
+	    padding: 0;
+	    margin: auto;
+	    display: table;
+	}
+	.header-top ul li {
+	    display: inline-block;
+	    padding: 10px 7px;
+	}
+
+	.header-top ul li a {
+	    font-size: 13px;
+	    color: #fff;
+	}
+
+	.head_top .navbar-toggle {
+	    border: 1px solid #fc5216;
+	    margin: 0px 15px 0px 0;
+	}
+
+	.head_top .navbar-toggle .icon-bar {
+		background-color: #fc5216;
+	}
+
+	.navbar-brand {
+	    padding: 0;
+	}
+
+	.logo {
+	    width: 210px;
+	    margin: -13px 0 0 0;
+	}
+
+	.head_top {
+	    padding: 15px 0 0;
+	}
+
+	/*.banner .banner_inner img {
+	    display: none;
+	}*/
+	.banner .banner_inner .banner_box {
+	    padding: 10px 0 10px;
+	}
+
+	.banner .banner_inner .banner_box .button {
+		margin: 30px auto 0;
+		display: table;
+	}
+	
+	.banner .banner_inner .banner_box .button a {
+	    font-size: 12px;
+	    padding: 10px 20px;
+	    margin: 0 5px;
+	}
+
+	.banner .banner_inner img {
+		width: 80%;
+		margin: 0 auto -15px;
+		display: table;
+	}
+
+	.sec_client .col-md-12 {
+		padding: 0;
+		margin: auto;
+		display: table;
+	}
+	section.sec_client .client-box img {
+	    padding: 0 0px;
+	    width: 49px;
+	}
+
+	.banner .banner_inner .banner_box h3 {
+		font-size: 16px;
+	}
+	.banner .banner_inner .banner_box h1, .banner .banner_inner .banner_box h1 span {
+	    font-size: 28px;
+	}
+	.banner {
+    background-position: 30% 100%;
+	}
+	.heading {
+	    font-size: 30px;
+	}
+
+	.para {
+	    font-size: 13px;
+	    color: #666666;
+	}
+
+	.banner .banner_inner .banner_box ul li {
+		font-size: 13px;
+		padding: 0 0 9px;
+	}
+	.banner .banner_inner .banner_box ul li i.fa.fa-check {
+		padding: 3px 5px 0 0;
+		height: 20px;
+		float: left;
+	}
+
+	.banner .banner_inner img.banner_right_img {
+	    width: 52px;
+	    right: 8px;
+	    top: 0px;
+	}
+
+	section.sec_turbo {
+	    padding: 50px 0 10px 0px;
+	}
+
+	.turbo-inner {
+	    margin: 35px 0 0;
+	}
+
+	section.sec_turbo .turbo-inner .turbo-box p {
+	    font-size: 10.5px;
+	}
+
+	.detect_types_box {
+	    background-color: #fff;
+	    padding: 30px 10px 40px;
+	    margin: 60px 0 0;
+	}
+
+	.detect_types_box h2 {
+	    margin: 0 0 15px;
+	    color: #00273f;
+	    line-height: 29px;
+	    text-align: center;
+	    font-size: 24px;
+	}
+
+	.detect_types_box p {
+	    font-size: 13px;
+	    margin: 0 0;
+	    text-align: center;
+	}
+
+	.detect_types_box .button a {
+	    font-size: 13px;
+	    padding: 8px 15px !important;
+	    margin: 0 2px;
+	}
+
+	.detect_types_box .button {
+	    display: table;
+	    padding: 40px 0 0;
+	    margin: auto;
+	}
+
+	.detect_types_box .button a.btn-org {
+	    padding: 10px 14px !important;
+	    margin: 5px;
+	}
+
+	section.sec_package {
+	    display: block;
+	    padding: 45px 0 25px;
+	}
+
+	section.sec_package h2.heading {
+	    text-align: center;
+	    margin: 0 0 40px 0;
+	}
+
+	section.sec_package .package-inner .package_boxes {
+	    display: block;
+	    margin: 0 auto 70px;
+	    width: 92%;
+	}
+	section.sec_package .package-inner .package_boxes_center {
+	     margin: 0 auto 70px;
+	}
+
+
+	.core-img-center img {
+	    margin: 0 auto 30px;
+	    top: 5px;
+	}
+
+	.core-disc p, .core-disc h2{
+		text-align: center !important;
+	}
+
+	.sec_cta .cta_inner h2.heading br {
+	    display: none;
+	}
+
+	.sec_cta .cta_inner h2.heading{
+		font-size: 26px;
+	}
+
+	.types-of-videos {
+	    padding: 50px 0 30px 0;
+	}
+
+	section.sec_cta .cta_inner .button a {
+	    margin: 0 auto 5px;
+	    font-size: 13px;
+	    padding: 10px 0px !important;
+	    display: table;
+	    width: 200px;
+	}
+
+	section.sec_cta .cta_inner .button a:first-child{
+		/*margin:0;*/
+	}
+
+	section.sec_cta {
+	    padding: 50px 0 55px;
+	}
+
+	.plagiarism_works_sec {
+	    padding: 50px 0 60px;
+	}
+	.plagiarism_works_boxes .col-sm-3 {
+	    margin: 30px 0 0px;
+	}
+
+	.plagiarism_works_boxes {
+	    margin: 40px 0 0;
+	}
+
+	section.sec_winning_resume .winning_resume_inner .winning_resume_boxes:before{
+		display: none !important;
+	}
+
+	section.sec_winning_resume {
+	    padding: 50px 0 15px;
+	}
+
+	section.sec_winning_resume .winning_resume_inner .winning_resume_boxes {
+	    margin: 0 0 40px;
+	}
+
+	section.sec_winning_resume .winning_resume_inner .winning_resume_boxes h5 {
+	    margin: -25px auto 20px;
+	}
+
+	section.sec_winning_resume .winning_resume_inner .winning_resume_boxes h4 {
+	    height: 30px;
+	    font-size: 17px;
+	}
+
+	section.sec_testimonials .testimonials_box_l p {
+	    font-size: 13px;
+	    margin: 20px 0;
+	    height: auto;
+	    overflow-y: auto;
+	    text-align: center;
+	}
+
+	section.sec_testimonials .testimonials_box_l h4 {
+	    text-align: center;
+	}
+
+	section.sec_testimonials .testimonials_box_l .slick-dots {
+	    bottom: -35px;
+	    left: 0;
+	}
+
+	section.sec_testimonials .testimonials_box_l .slick-dots {
+	    bottom: -35px;
+	    left: 0;
+	}
+
+	section.sec_testimonials {
+	    display: block;
+	    padding: 50px 0 30px;
+	}
+
+	.col-reviews-certificate {
+	    padding: 0 5px 0 0;
+	    width: 57px;
+	}
+
+	a.right_img_trust img {
+	    margin: 60px auto 0;
+	    display: table;
+	    width: 100% !important;
+	}
+
+	.footer_box {
+	    margin: 40px 0 0px;
+	}
+
+	footer.sec_footer .footer_boxes h3.footer_title {
+	    font-size: 16px;
+	    margin: 0 0 7px;
+	}
+
+	footer.footer_bottom p {
+	    font-size: 12px;
+	    margin: 0px 0 5px;
+	}
+
+	footer.footer_bottom ul li a {
+	    font-size: 12px;
+	}
+
+	.plagiarism_works_box p {
+	    font-size: 13px;
+	}
+
+	footer.sec_footer .footer_boxes ul li {
+	    list-style: none;
+	    padding: 3px 0;
+	}
+
+	footer.sec_footer .footer_boxes ul li a {
+	    font-size: 12px;
+	}
+
+	.contact_banner {
+	    height: 250px;
+	    padding: 0;
+	}
+
+
+
+	 #about_page .detect_types_box h2 {
+	    font-size: 36px;
+	}
+
+	#about_page .detect_types_box {
+	    padding: 25px 10px 50px;
+	}
+
+	.about_us_box {
+	    text-align: center;
+	    padding: 10px 0 30px;
+	}
+
+	.about_us_sec {
+	    padding: 30px 0 20px;
+	}
+
+	.head_top .navbar-nav .open .dropdown-menu {
+	    position: absolute;
+	    float: none;
+	    width: auto;
+	    margin-top: 0;
+	    background-color: #fff;
+	    border: 0;
+	    -webkit-box-shadow: none;
+	    box-shadow: 0 2px 10px 2px #ccc;
+	    width: 80%;
+	    margin: 0 auto 20px;
+	}
+
+	.head_top .navbar-nav .open .dropdown-menu  a {
+	    font-size: 15px;
+	    display: block;
+	    margin: 0 auto 3px;
+	    text-align: center !important;
+	}
+
+	.banner_inner_services_m .banner_inner .banner_box ul li {
+	    font-size: 13px;
+	    list-style: none;
+	    margin: 0 0 5px;
+	}
+
+	.banner_inner_services_m .banner_inner .banner_box ul li i.fa.fa-check {
+	    height: 30px;
+	    float: left;
+	    position: relative;
+	    top: 0;
+	}
+
+	.banner_inner_services_m.banner .banner_inner .banner_box .button a {
+	    font-size: 12px;
+	    padding: 10px 23px ;
+	    margin: 0 5px;
+	}
+
+	.contact_banner h2 {
+	    font-size: 35px;
+	}
+
+	.resumes_rejected_sec {
+		background-color: #002c47;
+		padding: 50px 0 55px;
+	}
+	.sm_white_title {
+		font-size: 28px;
+	}
+
+	.resumes_rejected_box:before {
+	    content: "";
+	    display: none;
+	}
+
+	.resumes_rejected_boxes .col-sm-2 {
+	    width: 100%;
+	}
+
+	.resumes_rejected_box {
+	    position: relative;
+	    margin: 0 auto 30px;
+	}
+
+	.resumes_rejected_box h3 {
+	    line-height: 20px;
+	    margin-top: 10px;
+	    font-size: 14px;
+	}
+
+	.resumes_rejected_boxes h5 {
+	    font-size: 14px;
+	}
+
+	.banner_inner_services_m .banner_inner .banner_box h1,
+	.banner_inner_services_m .banner_inner .banner_box h3,
+	.banner_inner_services_m .banner_inner .banner_box ul li {
+	    color: #fff;
+	}
+
+	.banner_inner_services_m a.btn-org {
+	    padding: 12px 15px !important;
+	}
+
+	.banner_inner_services_m .banner_right_form {
+	    width: 100%;
+	    float: none;
+	    margin: 40px auto 40px;
+	}
+
+	.banner_right_form h2 {
+	    text-align: center;
+	    font-size: 29px;
+	    margin: 0px 0 15px;
+	}
+
+	#resume_service_page .banner_inner_services_m:before {
+	    background-position: left 100px;
+	}
+
+	.banner_inner_services_m {
+	    padding: 0px 0 0px;
+	}
+
+	.form-bnr-st textarea.form-control {
+	    height: 60px;
+	    padding: 10px 5px 10px;
+	}
+
+	.form-bnr-st .form-control {
+	    height: 42px;
+	}
+
+	.form-btn-st {
+	    padding: 9px 30px;
+	    margin: 25px auto 0;
+	    font-size: 16px;
+	}
+
+	.banner .banner_inner {
+	    background-color: rgba(0, 0, 0, 0.4196078431372549);
+	    padding: 0 0 10px;
+	}
+
+	.banner_inner_services_m:before {
+	    left: 20px;
+	    top: 0;
+	    width: 375px;
+	}
+
+	#resume_service_page section.sec_turbo {
+	    padding: 50px 0 70px 0px;
+	}
+
+	.satisfaction_box h3 {
+	    font-size: 16px !important;
+	    margin: 20px 0 15px !important;
+	}
+
+	.satisfaction_box {
+	    margin: 0 0 30px;
+	}
+
+	.satisfaction_boxes {
+	    margin: 30px 0 0;
+	}
+
+	.satisfaction_box_btn a.btn-org {
+	    padding: 8px 10px !important;
+	    font-weight: 600;
+	    font-size: 14px;
+	}
+
+	.satisfaction_box_btn a.btn-org-bd {
+	    padding: 8px 16px !important;
+	    font-size: 14px;
+	}
+
+	.satisfaction_box_btn a, .grabbing_professional_box_right_btn a {
+		margin: 0 5px;
+	}
+
+	.satisfaction_box:before {
+	    display: none;
+	}
+
+	.what_we_do_sec .bg_circle11 img {
+	    width: 100%;
+	    /* margin: 0 0 0 -20px; */
+	    display: table;
+	}
+
+	/*.core-details1 {
+	    top: -850px;
+	    left: 0;
+	}
+
+	.core-details11 {
+	    width: 90%;
+	    margin: auto;
+	}
+
+	.core-details2 {
+	    top: 160px;
+	    right: 0;
+	}
+
+	.core-details3 {
+	    top: -150px;
+	    left: 0;
+	}
+
+	.core-details4 {
+	    top: 920px;
+	}
+
+	.core-details5 {
+	    top: 40px;
+	    left: 0;
+	}*/
+
+	.core-details2 a.image-hotspot {
+	    left: -390px !important;
+	    z-index: 999;
+	    top: -22px !important;
+	}
+
+	.core-details4 a.image-hotspot {
+	    left: -380px !important;
+	    z-index: 999;
+	    top: 30px !important;
+	}
+
+	.popover-primary4 {
+		margin: 195px 0 0 548px !important;
+	}
+
+	.popover.left {
+	    margin: 245px 0 0 510px;
+	}
+
+	.popover.left>.arrow {
+	    display: none;
+	}
+
+	.core-main11 .right p {
+	    text-align: center !important;
+	}
+
+	.core-details2 .we_do_num_img, .core-details4 .we_do_num_img ,.core-details3 .we_do_num_img, .core-details5 .we_do_num_img, .core-details1 .we_do_num_img {
+	    position: relative;
+	    /* right: -260px; */
+	    z-index: 999;
+	    display: none;
+	}
+
+	.banner_inner_services_m a.btn-org-bd {
+	    border: 2px solid #fff !important;
+	    color: #fff;
+	}
+
+	.core-details11 p {
+	    font-size: 13.5px;
+	    line-height: 20px;
+	    margin: 90px 0 0;
+	}
+
+	.core-details11 p:before {
+		content: "";
+		position: absolute;
+		
+		width: 40px;
+		height: 40px;
+		background-color: #fc5216;
+		left: 0;
+		right: 0;
+		margin: 0 auto 0px;
+		top: -50px;
+		border-radius: 50px;
+		font-weight: 600;
+		align-items: center;
+		display: grid;
+	}
+
+	.core-details1 p:before{
+		content: "1";
+		color: #fff;
+	}
+
+	.core-details2 p:before{
+		content: "2";
+		color: #fff;
+	}
+
+	.core-details3 p:before{
+		content: "3";
+		color: #fff;
+	}
+
+	.core-details4 p:before{
+		content: "4";
+		color: #fff;
+	}
+
+	.core-details5 p:before{
+		content: "5";
+		color: #fff;
+	}
+
+	.accordian_box ul {
+	    padding: 10px 10px 0;
+	    /* height: 60vh; */
+	}
+
+	#resume_service_page .types-of-videos {
+	    padding: 30px 0 40px;
+	}
+
+	a.acc_title {
+	    font-size: 14px;
+	}
+
+	.accordian_box p {
+	    font-size: 13px;
+	}
+
+	.accordian_box h3 {
+	    font-size: 13px;
+	}
+	section.sec_package .package-inner .package_boxes h3 {
+	    font-size: 18px;
+	}
+
+	section.sec_package .package-inner .package_boxes p {
+	    font-size: 12px;
+	}
+
+	section.sec_package .package-inner .package_boxes .package_price h2 {
+	    font-size: 40px;
+	}
+	section.sec_package .package-inner .package_boxes .package_price p {
+	    font-size: 12px;
+	}
+
+	section.sec_package .package-inner .package_boxes .button a {
+	    padding: 10px 27px;
+	    font-size: 16px;
+	    margin: 0 0 -40px 0;
+	}
+
+	.get_quote .form-control {
+	    height: 42px;
+	}
+	
+	.get_quote {
+	    padding: 50px 0 30px;
+	}
+
+	.banner {
+	    padding: 0px 0 0px;
+	}
+
+	.banner_inner_services_m .banner_right_form {
+	    box-shadow: 0 20px 16px 1px transparent;
+	}
+
+	#cover_letters_service_page .banner_inner_services_m:before {
+	    background-position: 0 20px;
+	    width: 404px;
+	    background-size: 100%;
+	    left: 0;
+	}
+
+	#cover_letters_service_page .effective_cover_letters_sec {
+	    background-color: #00273f;
+	    margin: -110px 0 0;
+	    padding: 150px 0 240px !important;
+	}
+
+	.core-details22 {
+	    width: 100%;
+	}
+
+	.core-main22 .right p, .core-main22 .right h3 {
+	    text-align: center !important;
+	}
+
+	.core-details_cover1 {
+	    position: relative;
+	    top: 0;
+	}
+
+	.core-details_cover2 {
+	    margin: 0px 0 0px;
+	    position: relative;
+	    top: -570px;
+	    right: 0;
+	    left: 0;
+	    padding: 0 15px;
+	}
+
+	.core-details_cover3 {
+	    position: relative;
+	    top: 625px;
+	}
+
+	.core-details_cover4 {
+	    top: 30px;
+	    right: 0;
+	    left: 0;
+	}
+
+	.core-details_cover5 {
+	    position: relative;
+	    top: 805px;
+	}
+
+	.core-main22 h3 {
+	    text-align: center !important;
+	    font-size: 18px;
+	}
+
+	.effective_cover_letters_boxes_img {
+	    margin: 230px 0 0;
+	}
+
+	.effective_cover_letters_box_img {
+	    position: relative;
+	    margin: 0 0 50px;
+	}
+
+	.effective_cover_letters_box_img img {
+	    margin: 0 auto 20px;
+	    display: table;
+	}
+
+	.effective_cover_letters_box_img:before{
+		display: none;
+	}
+
+	#linkdin_profile_page .banner_inner_services_m:before {
+	    background-position: left 110px;
+	}
+
+	.heading br {
+	    display: none;
+	}
+
+	.bio_required_list_left {
+	    text-align: center;
+	}
+
+	ul.professional_bio_required_list li {
+	    font-size: 13px;
+	    margin: 0 auto 6px;
+	    position: relative;
+	    display: table;
+	}
+
+	ul.professional_bio_required_list li i {
+	    margin: 0 5px;
+	    position: absolute;
+	    left: -25px;
+	    top: 5px;
+	}
+
+	.professional_bio_required_sec h3 br {
+	    display: none;
+	}
+
+	.professional_bio_required_sec h3 {
+	    font-size: 20px !important;
+	    margin: 20px 0 30px !important;
+	}
+
+	ul.professional_bio_required_list {
+	    padding: 0;
+	    margin: 0px 0 0px;
+	}
+
+	ul.professional_bio_required_list p {
+	    font-size: 16px;
+	    padding: 0 30px 0px 27px;
+	    text-align: center;
+	}
+
+	.professional_bio_required_box {
+	    padding: 25px 25px 25px;
+	    text-align: center;
+	    margin: 0 0 15px;
+	}
+
+	.professional_bio_required_boxes {
+	    margin: 40px 0 0;
+	}
+
+	.did_you_know_sec .professional_bio_required_box p {
+	    height: 100px;
+	    overflow-y: auto;
+	}
+
+	.did_you_know_sec {
+	    margin: 0px 0 0;
+	    padding: 50px 0 40px !important;
+	}
+
+	#linkdin_profile_page .sec_package {
+	    padding: 60px 0 30px;
+	}
+
+	.linkdin_profile_boxes {
+	    margin: 30px 0 0;
+	    text-align: center;
+	}
+
+	.linkdin_profile_box h3 {
+	    font-size: 17px;
+	}
+
+	.linkdin_profile_img {
+	    margin: 60px auto 0;
+	}
+
+	#career_coaching_service_page .banner_inner_services_m:before {
+	    background-position: 70px 50px;
+	}
+
+	.grabbing_professional_box_left h3 {
+	    font-size: 26px;
+	    text-align: center;
+	}
+
+	.grabbing_professional_box_left h4 {
+	    font-size: 78px;
+	    text-align: center;
+	}
+
+	.grabbing_professional_box_left p {
+	    font-size: 18px;
+	}
+
+	div#counter {
+	    text-align: center;
+	}
+
+	.grabbing_professional_box_left_btn .btn-white {
+	    font-size: 14px;
+	    padding: 10px 20px;
+	}
+
+	.coaching_service_list_box {
+	    margin: 30px 0 0;
+	    text-align: center;
+	}
+
+	.grabbing_professional_box_right .para {
+	    font-size: 13px;
+	    margin: 0 0 0;
+	}
+
+	.coaching_service_list {
+	    padding: 0;
+	    width: 100% !important;
+	    margin: 0;
+	}
+
+	.coaching_service_list li {
+	    font-size: 13px;
+	}
+
+	.grabbing_professional_box_right_btn a {
+	    padding: 10px 40px;
+	    font-size: 14px;
+	}
+
+	#career_coaching_service_page .grabbing_professional_sec {
+	    padding: 30px 0 50px;
+	}
+
+	.top_services_inner .slick-slide img {
+	    display: block;
+	    width: 100%;
+	    margin: auto;
+	    display: table;
+	}
+
+	.top_services_box {
+	    position: relative;
+	    padding: 60px 0 0;
+	}
+
+	.top_services_box h3 {
+	    font-size: 22px;
+	    margin: 0 0 20px;
+	    text-align: center;
+	}
+
+	.top_services_box p {
+	    font-size: 13px;
+	    text-align: center;
+	}
+
+	.top_services_box span {
+	    font-size: 194px;
+	    position: absolute;
+	    top: -50px;
+	    left: 0;
+	    text-align: center;
+	    right: 0;
+	}
+
+	.button.top_services_box_btn {
+	    margin: 40px 0 60px;
+	}
+
+	.button.top_services_box_btn a {
+	    padding: 10px 35px;
+	    font-size: 14px;
+	    margin: 0 2px;
+	}
+
+	#career_coaching_service_page .out_top_services_sec {
+	    padding: 50px 0 35px;
+	}
+
+	.top_services_slider .slick-dots {
+	    left: 0;
+	}
+
+	.additional_coaching_box img {
+	    margin: auto;
+	    display: table;
+	}
+
+	.career_coaching_clients_box_head h2 {
+	    font-size: 21px;
+	}
+
+	.career_coaching_clients_text p {
+	    font-size: 11px;
+	}
+
+	.career_coaching_clients_text {
+	    padding: 10px 15px 40px;
+	    border-radius: 0px 0px 10px 10px;
+	    margin: 0 0 50px;
+	}
+
+
+	.career_coaching_clients_btn a {
+	    padding: 10px 12px 10px;
+	    margin: 0 2px;
+	    font-size: 11px;
+	}
+
+	.career_coaching_clients_sec {
+	    padding: 25px 0 30px;
+	}
+
+	#quoteForm textarea.form-control {
+	    min-height: 80px;
+	    padding-top: 10px;
+	}
+
+	#quoteForm input#quoteSubmit {
+	    padding: 10px 60px;
+	    margin: 0 auto;
+	    display: table;
+	    font-size: 15px;
+	}
+
+	#job_profiling_page .banner_inner_services_m:before {
+	    background-position: 30px 10px;
+	}
+
+	.professional_online_profiles_sec {
+	    padding: 40px 0 40px;
+	    text-align: center;
+	}
+
+	.job_profiling_slider_boxes {
+	    margin: 0px 0 0;
+	    text-align: center;
+	}
+
+	.job_profiling_slider_boxes .slider-for {
+	    padding: 20px 0 0;
+	}
+
+	.job_profiling_slider_boxes p {
+	    margin: 20px 0 30px;
+	    font-size: 13px;
+	    text-align: center;
+	}
+
+	.job_profiling_slider.slick-dotted.slick-slider {
+	    margin-bottom: 0;
+	    width: 100%;
+	    position: relative;
+	}
+
+	.job_profiling_slider .slick-slide img {
+	    display: block;
+	    margin: 30px auto 0;
+	}
+
+	
+	section.sec_package .package-inner .package_boxes ul li {
+	    padding: 12px 10px 12px 20px;
+	    margin: 0 30px;
+	    font-size: 13px;
+	}
+
+	.grabbing_professional_box_img h3 {
+	    font-size: 15px;
+	    margin: 10px 0 0;
+	}
+
+	.grabbing_professional_box_img {
+	    margin: 0 0 30px;
+	}
+
+	.job_profiling_slider:after {
+	    display: none;
+	}
+
+	#professional_bio_writing .banner_inner_services_m:before {
+	    background-position: 40px 20px;
+	}
+
+	.banner_professional_bio{
+		padding: 0 ;
+	}
+
+	.professional_bio_required_sec {
+	    background-color: #f5f5f5;
+	    padding: 50px 0px 40px !important;
+	}
+
+	#professional_bio_writing .sec_resume .box18, #professional_bio_writing .sec_resume .box19 {
+	    margin: 0 0 15px;
+	}
+
+	section.sec_resume {
+	    padding: 50px 0 40px;
+	}
+
+	#professional_bio_writing ul.professional_bio_required_list {
+	    margin: 20px 0 0;
+	}
+
+	#professional_bio_writing ul.professional_bio_required_list li {
+	    font-size: 13px;
+	    margin: 0 auto 6px;
+	    position: relative;
+	    display: table;
+	    text-align: center;
+	}
+
+	#professional_bio_writing .col-sm-6:last-child ul.professional_bio_required_list{
+		margin: 0px;
+	}
+
+	#professional_bio_writing ul.professional_bio_required_list li i {
+	    margin: 0 5px;
+	    position: absolute;
+	    left: -18px;
+	    top: 3px;
+	}
+
+	#professional_bio_writing .features_of_services_sec {
+	    padding: 40px 0px 50px;
+	}
+
+	#professional_bio_writing section.sec_package {
+	    padding: 30px 0 0px;
+	    margin: 0 0 20px;
+	}
+
+	.footer_boxes a.btn-org {
+	    padding: 10px 20px;
+	    font-size: 14px;
+	}
+
+	.resume_samples_sec {
+	    padding: 20px 0 80px;
+	}
+
+	.heading_resume_samples {
+	    padding: 0px 0 0;
+	    margin: 0;
+	    text-align: center;
+	}
+
+	.resume_samples_slider {
+	    padding: 30px 0 0;
+	    width: 100%;
+	}
+
+	.resume_samples_slider .box18 {
+	    width: 100%;
+	}
+
+	.resume_samples_slider .box18 img {
+	    width: 90%;
+	    margin: auto;
+	}
+
+	.resume_samples_resume_sec .nav-tabs {
+	    border-bottom: 0px solid #ddd;
+	    margin: 40px auto 0px;
+	    display: table;
+	}
+
+	.resume_samples_resume_sec .nav-tabs>li>a {
+	    margin-right: 0px;
+	    border: 0px solid transparent;
+	    border-radius: 0;
+	    border-bottom: 2px solid transparent;
+	    font-size: 13px;
+	    font-weight: 500;
+	    color: #ffffff;
+	    padding: 0 0 2px;
+	    margin: 0 auto 7px;
+	    /* display: table; */
+	    text-align: center;
+	}
+
+	.resume_samples_resume_sec .nav-tabs>li.active>a, .resume_samples_resume_sec .nav-tabs>li.active>a:focus, .resume_samples_resume_sec .nav-tabs>li.active>a:hover {
+	    
+	    border-bottom: 2px solid #fc5216;
+	}
+
+	.resume_samples_resume_sec .nav-tabs>li {
+	    position: relative;
+	    display: inline-block;
+	    float: none;
+	    margin: auto;
+	    display: table;
+	}
+
+	#resume-samples .resume_box.box18 {
+	    width: 90%;
+	    margin: auto;
+	}
+
+	.resume_samples_types_slider .owl-stage-outer {
+	    position: relative;
+	    overflow: hidden;
+	    -webkit-transform: translate3d(0px, 0px, 0px);
+	    margin: 10px 0 0;
+	}
+
+	.resume_samples_types_slider .owl-dot.active {
+	    background-color: #fc5216;
+	}
+
+	.resume_samples_types_slider .owl-dot {
+	    width: 10px;
+	    height: 10px;
+	    background-color: #cccccc;
+	    margin: 0 2px 20px;
+	    border-radius: 50%;
+	    display: inline-table;
+	    text-align: center;
+	}
+
+	.resume_samples_resume_sec {
+	    background-size: cover !important;
+	    padding: 50px 0 30px !important;
+	}
+
+	.resume_pricing_banner h2 {
+	    font-size: 28px !important;
+	    margin: 0;
+	}
+
+	.resume_pricing_details_section section.sec_package {
+	    padding: 20px 0 0px;
+	}
+
+	#pricing-page .resume_samples_resume_sec {
+	    background-size: cover !important;
+	    padding: 20px 0 30px !important;
+	}
+
+	button#loadMore {
+	    padding: 10px 30px;
+	    font-size: 14px;
+	}
+
+	.review_sec {
+	    padding: 20px 0 60px;
+	}
+
+	.contact_page_details_box {
+	    height: 130px;
+	    /* display: grid; */
+	    margin: 0 0 70px;
+	}
+
+	.contact_page_details {
+	    padding: 20px 0 0px;
+	}
+
+	.contact_page_form {
+	    padding: 0 0 30px !important;
+	}
+
+	.privacy_sec h3 {
+	    font-size: 22px;
+	}
+
+	.privacy_sec .simple-list li {
+	    padding: 0 0 10px;
+	    font-size: 13px;
+	}
+
+	.privacy_sec h4 {
+	    margin: 20px 0 5px;
+	    font-size: 18px;
+	}
+
+	.privacy_sec a {
+	    font-size: 13px;
+	}
+
+	.privacy_sec {
+	    padding: 50px 0 40px;
+	}
+
+	.head_top .navbar.navbar-defult ul li a.btn-org {
+	    padding: 10px 27px;
+	    font-size: 14px;
+	    margin: 10px auto 10px;
+	}
+
+    .client_logos_slides:before{
+    	display: none;
+    }
+
+    .client_logos_boxes .col-sm-2 {
+	    padding-right: 15px;
+	}
+
+	.client_logos_text h3 {
+	    text-align: center;
+	}
+	section.sec_client {
+	    padding: 13px 0 0px;
+	}
+
+	.para br{
+		display: none;
+	}
+
+	section.sec_turbo .turbo-inner .turbo-box {
+	    height: 60px;
+	}
+
+	section.sec_turbo .turbo-inner .turbo-box h4 {
+	    font-size: 16px;
+	    line-height: 20px;
+	}
+
+	/*a.image-hotspot {
+	    DISPLAY: NONE;
+	}*/
+
+	#resume_service_page .what_we_do_sec {
+	    padding: 40px 0 50px 0 !important;
+	}
+
+	a.image-hotspot {
+	    display: none;
+	}
+
+	#job_profiling_page .grabbing_professional_boxes_img .col-sm-2 {
+	    width: 32%;
+	    display: inline-block;
+	    margin: 0 0px;
+	}
+
+	#job_profiling_page .grabbing_professional_box_img h3 {
+	    font-size: 11px;
+	    margin: 10px 0 0;
+	}
+
+	.online_profile_icon {
+	    width: 90px;
+	    height: 90px;
+	}
+
+}
+
+
+/*@media  (max-width:767px){
+	.head_top .navbar-toggle {
+	    border: 1px solid #ccc;
+	}
+
+	.head_top .navbar-toggle span.icon-bar {
+	    background: #ccc;
+	}
+	.head_top .navbar.navbar-defult div#myNavbar ul li a.btn-org {
+	    width: auto;
+	    display: inline-block;
+	}
+	.banner .banner_inner img {
+	    display: none;
+	}
+	.banner .banner_inner .banner_box {
+	    padding: 10px 0 10px;
+	}
+	.banner .banner_inner .banner_box .button a {
+	    font-size: 12px;
+	    padding: 10px 20px;
+	}
+	section.sec_client .client-box img {
+	    padding: 0 0px;
+	    width: 13%;
+	}
+	.banner .banner_inner .banner_box h1 {
+	    font-size: 35px;
+	}
+	.banner {
+	    background-position: left;
+	}
+	.heading {
+	    font-size: 35px;
+	}
+	.detect_types_box {
+	    padding: 20px 15px;
+	     top: 0px; 
+	     position: relative;
+	}
+	.detect_types_box .button a {
+	    font-size: 11px;
+	    padding: 13px 15px;
+	}
+	.detect_types_sec {
+	     height: auto; 
+	}
+	.detect_types_box .button {
+	    display: block;
+	    padding: 40px 0 20px;
+	}
+	section.sec_package .package-inner .package_boxes_center {
+	    margin: 40px 0 50px 0;
+	}
+	.plagiarism_works_boxes .col-sm-3:nth-of-type(even) {
+	    margin: 30px 0 30px;
+	}
+	.plagiarism_works_boxes {
+	    margin: 20px 0 0;
+	}
+	.plagiarism_works_sec {
+	    padding: 30px 0 30px;
+	}
+	section.sec_winning_resume .winning_resume_inner .winning_resume_boxes:after{
+		display: none;
+	}
+	section.sec_cta .cta_inner .button a {
+	    font-size: 14px;
+	}
+	section.sec_testimonials .testimonials_inner a.fancybox {
+	    display: none;
+	}
+	section.sec_testimonials .testimonials_box_l {
+	    margin: 0px 0 0 0;
+	    padding-bottom: 50px;
+	}
+	section.sec_testimonials .testimonials_box_l .slick-dots {
+	    bottom: 15px;
+	    left: 0;
+	}
+	section.sec_testimonials .testimonials_box_r img {
+	    width: 49%;
+	}
+	section.sec_testimonials .testimonials_inner .col-md-8 .col-md-6 {
+	    padding: 0;
+	}
+	.col-reviews-certificate {
+		width: 16%;
+		padding:0;
+
+	}
+	.col-reviews-certificate:before{
+		display: none;
+	}
+	.core-disc p, .core-disc h2{
+	    text-align: left;
+	}
+	.col-md-4.core-img-center.no-padding {
+	    padding: 0;
+	}
+
+}
+*/
+
+
+@media (min-width:1200px) and (max-width:1278px){
+	.banner_inner_services_m {
+	    background-position: -320px top;
+	}
+
+	.banner_inner_services_m:before {
+	    background-position: -320px -45px;
+	}
+}
+
+
+
+/*@media (min-width:1401px) and (max-width:1500px){
+	.banner_inner_services_m:before {
+	    left: 120px;
+	    top: -20px;
+	}
+
+	#cover_letters_service_page .banner_inner_services_m:before  {
+	    background-position: -30px 30px;
+	}
+
+	.banner_inner_services_m:before {
+	    background-position: 0px 0px;
+	}
+
+	#resume_service_page .banner_inner_services_m:before {
+	    background-position: -100px -100px;
+	}
+
+	#career_coaching_service_page .banner_inner_services_m:before{
+		background-position: 0px 0px;
+	}
+
+	#job_profiling_page .banner_inner_services_m:before {
+		background-position: 0px 40px;
+	}
+
+	#professional_bio_writing .banner_inner_services_m:before{
+		background-position: 0px 30px;
+	}
+}
+
+@media (min-width:1501px) and (max-width:1600px){
+	.banner_inner_services_m {
+	    background-position: -130px 0;
+	}
+
+	.banner_inner_services_m:before {
+	    left: 120px;
+	    top: -20px;
+	}
+
+	#cover_letters_service_page .banner_inner_services_m:before  {
+	    background-position: -30px 30px;
+	}
+
+	.banner_inner_services_m:before {
+	    background-position: 0px 0px;
+	}
+
+	#resume_service_page .banner_inner_services_m:before {
+	    background-position: -100px -100px;
+	}
+
+	#career_coaching_service_page .banner_inner_services_m:before{
+		background-position: 0px 0px;
+	}
+
+	#job_profiling_page .banner_inner_services_m:before {
+		background-position: 0px 40px;
+	}
+
+	#professional_bio_writing .banner_inner_services_m:before{
+		background-position: -80px 30px;
+	}
+	#cover_letters_service_page .effective_cover_letters_sec {
+	    margin: -92px 0 0;
+	    padding: 130px 0 70px !important;
+	}
+
+	.banner_inner_services_m .banner_inner .banner_box {
+	    padding: 25px 0 0;
+	    position: relative;
+	    left: 80px;
+	}
+
+	.banner_right_form {
+	    position: relative;
+	    right: -100px;
+	}
+
+	.accordian_box ul {
+	    padding: 10px 80px 0;
+	    height: 60vh;
+	}
+}
+
+@media (min-width:1401px) and (max-width:1500px){
+	.banner_inner_services_m {
+	    background-position: -130px 0;
+	}
+
+	.banner_inner_services_m:before {
+	    left: 120px;
+	    top: -20px;
+	}
+
+	#cover_letters_service_page .banner_inner_services_m:before  {
+	    background-position: -30px 30px;
+	}
+
+	.banner_inner_services_m:before {
+	    background-position: 0px 0px;
+	}
+
+	#resume_service_page .banner_inner_services_m:before {
+	    background-position: -100px -100px;
+	}
+
+	#career_coaching_service_page .banner_inner_services_m:before{
+		background-position: 0px 0px;
+	}
+
+	#job_profiling_page .banner_inner_services_m:before {
+		background-position: 0px 40px;
+	}
+
+	#professional_bio_writing .banner_inner_services_m:before{
+		background-position: -130px 30px;
+	}
+	#cover_letters_service_page .effective_cover_letters_sec {
+	    margin: -92px 0 0;
+	    padding: 130px 0 70px !important;
+	}
+
+	.banner_inner_services_m .banner_inner .banner_box {
+	    padding: 25px 0 0;
+	    position: relative;
+	    left: 80px;
+	}
+
+	.banner_right_form.wow.bounceInRight {
+	    position: relative;
+	    right: -100px;
+	}
+
+	.accordian_box ul {
+	    padding: 10px 80px 0;
+	    height: 60vh;
+	}
+}
+
+@media (min-width:1601px) and (max-width:1700px){
+	.banner_inner_services_m {
+	    background-position: -130px 0;
+	}
+
+	.banner_inner_services_m:before {
+	    left: 120px;
+	    top: -20px;
+	}
+
+	#cover_letters_service_page .banner_inner_services_m:before  {
+	    background-position: -30px 30px;
+	}
+
+	.banner_inner_services_m:before {
+	    background-position: 0px 0px;
+	}
+
+	#resume_service_page .banner_inner_services_m:before {
+	    background-position: -100px -100px;
+	}
+
+	#career_coaching_service_page .banner_inner_services_m:before{
+		background-position: 0px 0px;
+	}
+
+	#job_profiling_page .banner_inner_services_m:before {
+		background-position: 0px 40px;
+	}
+
+	#professional_bio_writing .banner_inner_services_m:before{
+		background-position: -90px 30px;
+	}
+}
+
+@media (min-width:1701px) and (max-width:1800px){
+	.banner_inner_services_m {
+	    background-position: -70px 0;
+	}
+
+	.banner_inner_services_m:before {
+	    left: 120px;
+	    top: -20px;
+	}
+
+	#cover_letters_service_page .banner_inner_services_m:before  {
+	    background-position: -30px 30px;
+	}
+
+	.banner_inner_services_m:before {
+	    background-position: 0px 0px;
+	}
+
+	#resume_service_page .banner_inner_services_m:before {
+	    background-position: -100px -100px;
+	}
+
+	#career_coaching_service_page .banner_inner_services_m:before{
+		background-position: 0px 0px;
+	}
+
+	#job_profiling_page .banner_inner_services_m:before {
+		background-position: 0px 40px;
+	}
+
+	#professional_bio_writing .banner_inner_services_m:before{
+		background-position: -80px 30px;
+	}
+}
+*/
+
+@media (min-width: 1601px) and (max-width: 1700px){
+	img.banner_left_img {
+		width: 97% !important;
+	}
+	.banner .banner_inner .banner_box h3 {
+	    font-size: 20px;
+	}
+
+	.banner .banner_inner .banner_box h1 {
+	    font-size: 44px;
+	}
+
+    .banner .banner_inner .banner_box {
+		padding: 55px 0 0;
+	}
+
+	.banner .banner_inner .banner_box ul li {
+	    font-size: 15px;
+	    padding: 5px 0 0;
+	}
+
+	#resume_writing_service_page .banner .banner_inner .banner_box ul li {
+	    font-size: 13px;
+	    padding: 10px 0 0;
+	}
+
+	.banner .banner_inner img.banner_right_img {
+	    margin: 0px 0 0;
+	    width: 140px;
+	    right: -60px;
+	    top: -23px;
+	}
+
+	.heading {
+	    font-size: 36px;
+	    line-height: 42px;
+	    margin-top: 0;
+	}
+
+	.detect_types_box h2 {
+	    line-height: 40px;
+	}
+
+	.para {
+	    font-size: 13px;
+	}
+
+	.about_us_box .para {
+	    font-size: 14px;
+	}
+
+	.plagiarism_works_box h3 {
+	    font-size: 18px;
+	    margin: 15px 0 10px;
+	}
+
+	.plagiarism_works_box p {
+	    font-size: 13.5px;
+	}
+
+	.sec_package .package-inner .package_boxes h3 {
+	    font-size: 20px;
+	    margin-top: 40px;
+	}
+
+	.sec_package .package-inner .package_boxes p {
+	    font-size: 13px;
+	    padding: 0 25px;
+	}
+
+	.sec_package .package-inner .package_boxes ul li {
+	    padding: 15px 0;
+	    margin: 0 30px;
+	    font-size: 12.5px !important;
+	}
+
+	section.sec_package .package-inner .package_boxes p {
+	    font-size: 12.5px;
+	}
+
+	.detect_types_box p {
+	    font-size: 14px;
+	}
+
+	.banner_inner_services_m a.btn-org {
+	    padding: 12px 15px !important;
+	    font-size: 16px !important;
+	}
+
+	.banner_inner_services_m a.btn-org-bd {
+	    padding: 10px 20px !important;
+	    font-size: 16px  !important;
+	}
+
+	.banner_box_home {
+	    left: 0 !important;
+	    padding: 60px 0 0 !important;
+	}
+
+	#resume_writing_service_page .banner .banner_inner .banner_box {
+	    padding: 50px 0 0;
+	}
+
+	.banner .banner_inner .banner_box {
+	    padding: 55px 0 0;
+	    left: 100px;
+	    position: relative;
+	}
+
+	.banner_inner_services_m {
+	    background-position: -25px top;
+	    padding: 0px 0 40px;
+	}
+
+	#cover_letters_service_page .banner_inner_services_m:before  {
+	    background-position: 0 20px;
+	}
+
+	.banner_inner_services_m:before {
+	    background-position: 0 20px;
+	}
+
+	#resume_service_page .banner_inner_services_m:before {
+	    background-position: 0 20px;
+	}
+
+	#career_coaching_service_page .banner_inner_services_m:before{
+		background-position: 0px 20px;
+	}
+
+	#job_profiling_page .banner_inner_services_m:before {
+		background-position: 0 20px;
+	}
+
+	#professional_bio_writing .banner_inner_services_m:before{
+		background-position: 0 20px;
+	}
+
+	.form-btn-st {
+	    padding: 13px 30px;
+	    font-size: 16px;
+	}
+
+	.banner_inner_services_m .banner_right_form {
+	    width: 90%;
+	    position: relative;
+	    right: -80px;
+	    top: 10px;
+	}
+
+	.form-bnr-st .form-control {
+	    height: 46px;
+	}
+
+	.form-bnr-st textarea.form-control {
+	    height: 80px;
+	    padding: 10px 5px 10px;
+	}
+
+	.banner_right_form h2 {
+	    font-size: 28px;
+	    margin: 5px 0 10px;
+	}
+
+	.banner_right_form h3 {
+		margin: 10px -30.5px 0px;
+		font-size: 15px;
+	}
+
+	.button.top_services_box_btn a {
+	    padding: 11px 40px;
+	    font-size: 16px;
+	}
+
+	.career_coaching_clients_text p {
+	    padding: 13px 0 13px;
+	}
+
+	.career_coaching_clients_btn a {
+	    padding: 14px 26px 13px;
+	    font-size: 16px;
+	}
+
+	.coach_partner_box h3 {
+	    font-size: 13px;
+	}
+
+	#professional_bio_writing section.sec_package {
+		padding: 30px 0 60px;
+	}
+
+	.accordian_box ul {
+	    /* height: 71vh; */
+	}
+
+	.acc_tabs_list .nav-tabs>li>a {
+	    font-size: 16px;
+	    padding: 12px 0px;
+	}
+
+	section.sec_cta .cta_inner .button .btn-white,
+	section.sec_cta .cta_inner .button a {
+	    font-size: 16px;
+	    padding: 11px 40px;
+	}
+
+	section.sec_package .package-inner .package_boxes ul li:last-child {
+	    border-bottom: none;
+	    margin: 0 30px 25px;
+	}
+
+	.detect_types_box .button a {
+	    font-size: 16px;
+	    padding: 11px 30px;
+	}
+
+	.detect_types_box .button a.btn-org-bd {
+	    border: 2px solid #fc5216;
+	    padding: 9px 30px;
+	}
+
+	section.sec_turbo .turbo-inner .turbo-box {
+	    padding: 12px 0;
+	}
+
+	#quoteForm input#quoteSubmit {
+	    padding: 11px 60px;
+	    font-size: 16px;
+	}
+
+	footer.sec_footer .footer_boxes ul li {
+	    list-style: none;
+	    padding: 5px 0 0;
+	}
+
+	footer.sec_footer .footer_boxes ul li a {
+	    font-size: 13px;
+	}
+
+	footer.sec_footer .footer_boxes p {
+	    font-size: 13px;
+	}
+
+	.satisfaction_box:before {
+	    height: 200px;
+	}
+
+	.satisfaction_box h3 {
+	    font-size: 16px !important;
+	    margin: 30px 0 20px !important;
+	}
+
+	.satisfaction_box p {
+	    font-size: 13px !important;
+	}
+
+	#cover_letters_service_page .core-main22 {
+	    margin: 0 0 0;
+	}
+
+	#cover_letters_service_page .effective_cover_letters_sec {
+	    margin: -95px 0 0;
+	    padding: 130px 0 70px !important;
+	}
+
+	.linkdin_profile_box a.btn-org-bd {
+	    padding: 9px 30px;
+	    font-size: 16px;
+	}
+
+	.grabbing_professional_box_right_btn a {
+	    padding: 11px 40px;
+	    font-size: 16px;
+	}
+
+	.professional_online_profiles_sec .grabbing_professional_box_right {
+	    padding: 25px 0 0;
+	}
+
+	#home_page section.sec_package {
+	    display: block;
+	    padding: 40px 0 80px;
+	}
+
+	#cover_letters_service_page .faqs_sec {
+	    padding: 30px 0 0 !important;
+	}
+
+
+}
+
+@media (min-width: 1501px) and (max-width: 1600px){
+	img.banner_left_img {
+		width: 97% !important;
+	}
+	.banner .banner_inner .banner_box h3 {
+	    font-size: 20px;
+	}
+
+	.banner .banner_inner .banner_box h1 {
+	    font-size: 44px;
+	}
+
+    .banner .banner_inner .banner_box {
+		padding: 55px 0 0;
+	}
+
+	.banner .banner_inner .banner_box ul li {
+	    font-size: 15px;
+	    padding: 5px 0 0;
+	}
+
+	#resume_writing_service_page .banner .banner_inner .banner_box ul li {
+	    font-size: 13px;
+	    padding: 10px 0 0;
+	}
+
+	.banner .banner_inner img.banner_right_img {
+    margin: 0px 0 0;
+    width: 110px;
+    right: -60px;
+    top: -7px;
+	}
+
+	.heading {
+	    font-size: 36px;
+	    line-height: 42px;
+	    margin-top: 0;
+	}
+
+	.detect_types_box h2 {
+	    line-height: 40px;
+	}
+
+	.para {
+	    font-size: 13px;
+	}
+
+	.about_us_box_text1 {
+	    padding: 70px 0 0;
+	}
+	.about_us_box_text {
+	    /* padding: 110px 0 0; */
+	}
+
+	.about_us_box .para {
+	    font-size: 14px;
+	}
+
+	.plagiarism_works_box h3 {
+	    font-size: 18px;
+	    margin: 15px 0 10px;
+	}
+
+	.plagiarism_works_box p {
+	    font-size: 13.5px;
+	}
+
+	.sec_package .package-inner .package_boxes h3 {
+	    font-size: 20px;
+	    margin-top: 40px;
+	}
+
+	.sec_package .package-inner .package_boxes p {
+	    font-size: 13px;
+	    padding: 0 25px;
+	}
+
+	.sec_package .package-inner .package_boxes ul li {
+	    padding: 15px 0;
+	    margin: 0 30px;
+	    font-size: 12.5px !important;
+	}
+
+	section.sec_package .package-inner .package_boxes p {
+	    font-size: 12.5px;
+	}
+
+	.detect_types_box p {
+	    font-size: 14px;
+	}
+
+	.banner_inner_services_m a.btn-org {
+	    padding: 12px 15px !important;
+	    font-size: 16px !important;
+	}
+
+	.banner_inner_services_m a.btn-org-bd {
+	    padding: 10px 20px !important;
+	    font-size: 16px  !important;
+	}
+
+	.banner_box_home {
+	    left: 0 !important;
+	    padding: 60px 0 0 !important;
+	}
+
+	#resume_writing_service_page .banner .banner_inner .banner_box {
+	    padding: 50px 0 0;
+	}
+
+	.banner .banner_inner .banner_box {
+	    padding: 55px 0 0;
+	    left: 100px;
+	    position: relative;
+	}
+
+	.banner_inner_services_m {
+	    background-position: -25px top;
+	    padding: 0px 0 40px;
+	}
+
+	#cover_letters_service_page .banner_inner_services_m:before  {
+	    background-position: 0 20px;
+	}
+
+	.banner_inner_services_m:before {
+	    background-position: 0 20px;
+	}
+
+	#resume_service_page .banner_inner_services_m:before {
+	    background-position: 0 20px;
+	}
+
+	#career_coaching_service_page .banner_inner_services_m:before{
+		background-position: 0px 20px;
+	}
+
+	#job_profiling_page .banner_inner_services_m:before {
+		background-position: 0 20px;
+	}
+
+	#professional_bio_writing .banner_inner_services_m:before{
+		background-position: 0 20px;
+	}
+
+	.form-btn-st {
+	    padding: 13px 30px;
+	    font-size: 16px;
+	}
+
+	.banner_inner_services_m .banner_right_form {
+	    width: 90%;
+	    position: relative;
+	    right: -80px;
+	    top: 10px;
+	}
+
+	.form-bnr-st .form-control {
+	    height: 46px;
+	}
+
+	.form-bnr-st textarea.form-control {
+	    height: 80px;
+	    padding: 10px 5px 10px;
+	}
+
+	.banner_right_form h2 {
+	    font-size: 28px;
+	    margin: 5px 0 10px;
+	}
+
+	.banner_right_form h3 {
+		margin: 10px -30.5px 0px;
+		font-size: 15px;
+	}
+
+	.button.top_services_box_btn a {
+	    padding: 11px 40px;
+	    font-size: 16px;
+	}
+
+	.career_coaching_clients_text p {
+	    padding: 13px 0 13px;
+	}
+
+	.career_coaching_clients_btn a {
+	    padding: 14px 26px 13px;
+	    font-size: 16px;
+	}
+
+	.coach_partner_box h3 {
+	    font-size: 13px;
+	}
+
+	#professional_bio_writing section.sec_package {
+		padding: 30px 0 60px;
+	}
+
+	.accordian_box ul {
+	    /* height: 71vh; */
+	}
+
+	.acc_tabs_list .nav-tabs>li>a {
+	    font-size: 16px;
+	    padding: 12px 0px;
+	}
+
+	section.sec_cta .cta_inner .button .btn-white,
+	section.sec_cta .cta_inner .button a {
+	    font-size: 16px;
+	    padding: 11px 25px;
+	}
+
+	section.sec_package .package-inner .package_boxes ul li:last-child {
+	    border-bottom: none;
+	    margin: 0 30px 25px;
+	}
+
+	.detect_types_box .button a {
+	    font-size: 16px;
+	    padding: 11px 30px;
+	}
+
+	.detect_types_box .button a.btn-org-bd {
+	    border: 2px solid #fc5216;
+	    padding: 9px 30px;
+	}
+
+	section.sec_turbo .turbo-inner .turbo-box {
+	    padding: 12px 0;
+	}
+
+	#quoteForm input#quoteSubmit {
+	    padding: 11px 60px;
+	    font-size: 16px;
+	}
+
+	footer.sec_footer .footer_boxes ul li {
+	    list-style: none;
+	    padding: 5px 0 0;
+	}
+
+	footer.sec_footer .footer_boxes ul li a {
+	    font-size: 13px;
+	}
+
+	footer.sec_footer .footer_boxes p {
+	    font-size: 13px;
+	}
+
+	.satisfaction_box:before {
+	    height: 200px;
+	}
+
+	.satisfaction_box h3 {
+	    font-size: 16px !important;
+	    margin: 30px 0 20px !important;
+	}
+
+	.satisfaction_box p {
+	    font-size: 13px !important;
+	}
+
+	#cover_letters_service_page .core-main22 {
+	    margin: 0 0 0;
+	}
+
+	#cover_letters_service_page .effective_cover_letters_sec {
+	    margin: -95px 0 0;
+	    padding: 130px 0 70px !important;
+	}
+
+	.linkdin_profile_box a.btn-org-bd {
+	    padding: 9px 30px;
+	    font-size: 16px;
+	}
+
+	.grabbing_professional_box_right_btn a {
+	    padding: 11px 40px;
+	    font-size: 16px;
+	}
+
+	.professional_online_profiles_sec .grabbing_professional_box_right {
+	    padding: 25px 0 0;
+	}
+
+	#home_page section.sec_package {
+	    display: block;
+	    padding: 40px 0 80px;
+	}
+
+	#cover_letters_service_page .faqs_sec {
+	    padding: 30px 0 0 !important;
+	}
+
+
+}
+
+@media (max-width: 1366px) {
+	.banner {
+	min-height: 500px;
+	}
+}
+@media (min-width: 1366px) and (max-width: 1500px){
+	img.banner_left_img {
+		width: 97% !important;
+	}
+	.banner .banner_inner .banner_box h3 {
+	    font-size: 20px;
+	}
+
+	.banner .banner_inner .banner_box h1 {
+	    font-size: 44px;
+	}
+
+    .banner .banner_inner .banner_box {
+		padding: 55px 0 0;
+	}
+
+	.banner .banner_inner .banner_box ul li {
+	    font-size: 15px;
+	    padding: 5px 0 0;
+	}
+
+	#resume_writing_service_page .banner .banner_inner .banner_box ul li {
+	    font-size: 13px;
+	    padding: 10px 0 0;
+	}
+
+	.banner .banner_inner img.banner_right_img {
+    margin: 0px 0 0;
+    width: 110px;
+    right: -60px;
+    top: -7px;
+	}
+
+	.heading {
+	    font-size: 36px;
+	    line-height: 42px;
+	    margin-top: 0;
+	}
+
+	.detect_types_box h2 {
+	    line-height: 40px;
+	}
+
+	.para {
+	    font-size: 13px;
+	}
+
+	.about_us_box_text1 {
+	    padding: 70px 0 0;
+	}
+	.about_us_box_text {
+	    /* padding: 110px 0 0; */
+	}
+
+	.about_us_box .para {
+	    font-size: 14px;
+	}
+
+	.plagiarism_works_box h3 {
+	    font-size: 18px;
+	    margin: 15px 0 10px;
+	}
+
+	.plagiarism_works_box p {
+	    font-size: 13.5px;
+	}
+
+	.sec_package .package-inner .package_boxes h3 {
+	    font-size: 20px;
+	    margin-top: 40px;
+	}
+
+	.sec_package .package-inner .package_boxes p {
+	    font-size: 13px;
+	    padding: 0 25px;
+	}
+
+	.sec_package .package-inner .package_boxes ul li {
+	    padding: 15px 0;
+	    margin: 0 30px;
+	    font-size: 12.5px !important;
+	}
+
+	section.sec_package .package-inner .package_boxes p {
+	    font-size: 12.5px;
+	}
+
+	.detect_types_box p {
+	    font-size: 14px;
+	}
+
+	.banner_inner_services_m a.btn-org {
+	    padding: 12px 15px !important;
+	    font-size: 16px !important;
+	}
+
+	.banner_inner_services_m a.btn-org-bd {
+	    padding: 10px 20px !important;
+	    font-size: 16px  !important;
+	}
+
+	.banner_box_home {
+	    left: 0 !important;
+	    padding: 60px 0 0 !important;
+	}
+
+	#resume_writing_service_page .banner .banner_inner .banner_box {
+	    padding: 50px 0 0;
+	}
+
+	.banner .banner_inner .banner_box {
+	    padding: 55px 0 0;
+	    left: 135px;
+	    position: relative;
+	}
+
+	.banner_inner_services_m {
+	    background-position: -25px top;
+	    padding: 0px 0 40px;
+	}
+
+	#cover_letters_service_page .banner_inner_services_m:before  {
+	    background-position: 0 20px;
+	    left: 0;
+	}
+
+	.banner_inner_services_m:before {
+	    background-position: 0 20px;
+	}
+
+	#resume_service_page .banner_inner_services_m:before {
+	    background-position: 0 20px;
+	}
+
+	#career_coaching_service_page .banner_inner_services_m:before{
+		background-position: 0px 20px;
+	}
+
+	#job_profiling_page .banner_inner_services_m:before {
+		background-position: 0 20px;
+	}
+
+	#professional_bio_writing .banner_inner_services_m:before{
+		background-position: 0 20px;
+	}
+
+	.form-btn-st {
+	    padding: 13px 30px;
+	    font-size: 16px;
+	}
+
+	.banner_inner_services_m .banner_right_form {
+	    width: 85%;
+	    position: relative;
+	    right: -80px;
+	    top: 10px;
+	}
+
+	.form-bnr-st .form-control {
+	    height: 46px;
+	}
+
+	.form-bnr-st textarea.form-control {
+	    height: 80px;
+	    padding: 10px 5px 10px;
+	}
+
+	.banner_right_form h2 {
+	    font-size: 28px;
+	    margin: 5px 0 10px;
+	}
+
+	.banner_right_form h3 {
+		margin: 10px -30.5px 0px;
+		font-size: 15px;
+	}
+
+	.button.top_services_box_btn a {
+	    padding: 11px 40px;
+	    font-size: 16px;
+	}
+
+	.career_coaching_clients_text p {
+	    padding: 13px 0 13px;
+	}
+
+	.career_coaching_clients_btn a {
+	    padding: 14px 26px 13px;
+	    font-size: 16px;
+	}
+
+	.coach_partner_box h3 {
+	    font-size: 13px;
+	}
+
+	#professional_bio_writing section.sec_package {
+		padding: 30px 0 60px;
+	}
+
+	.accordian_box ul {
+	    /* height: 71vh; */
+	}
+
+	.acc_tabs_list .nav-tabs>li>a {
+	    font-size: 16px;
+	    padding: 12px 0px;
+	}
+
+	section.sec_cta .cta_inner .button .btn-white,
+	section.sec_cta .cta_inner .button a {
+	    font-size: 16px;
+	    padding: 11px 30px;
+	}
+
+	section.sec_package .package-inner .package_boxes ul li:last-child {
+	    border-bottom: none;
+	    margin: 0 30px 25px;
+	}
+
+	.detect_types_box .button a {
+	    font-size: 16px;
+	    padding: 11px 30px;
+	}
+
+	.detect_types_box .button a.btn-org-bd {
+	    border: 2px solid #fc5216;
+	    padding: 9px 30px;
+	}
+
+	section.sec_turbo .turbo-inner .turbo-box {
+	    padding: 12px 0;
+	}
+
+	#quoteForm input#quoteSubmit {
+	    padding: 11px 60px;
+	    font-size: 16px;
+	}
+
+	footer.sec_footer .footer_boxes ul li {
+	    list-style: none;
+	    padding: 5px 0 0;
+	}
+
+	footer.sec_footer .footer_boxes ul li a {
+	    font-size: 13px;
+	}
+
+	footer.sec_footer .footer_boxes p {
+	    font-size: 13px;
+	}
+
+	.satisfaction_box:before {
+	    height: 200px;
+	}
+
+	.satisfaction_box h3 {
+	    font-size: 16px !important;
+	    margin: 30px 0 20px !important;
+	}
+
+	.satisfaction_box p {
+	    font-size: 13px !important;
+	}
+
+	#cover_letters_service_page .core-main22 {
+	    margin: 0 0 0;
+	}
+
+	#cover_letters_service_page .effective_cover_letters_sec {
+	    margin: -95px 0 0;
+	    padding: 130px 0 50px !important;
+	}
+
+	.linkdin_profile_box a.btn-org-bd {
+	    padding: 9px 30px;
+	    font-size: 16px;
+	}
+
+	.grabbing_professional_box_right_btn a {
+	    padding: 11px 40px;
+	    font-size: 16px;
+	}
+
+	.professional_online_profiles_sec .grabbing_professional_box_right {
+	    padding: 25px 0 0;
+	}
+
+	#home_page section.sec_package {
+	    display: block;
+	    padding: 40px 0 80px;
+	}
+
+	#cover_letters_service_page .faqs_sec {
+	    padding: 30px 0 0 !important;
+	}
+
+
+}
+
+
+@media (min-width:1200px) and (max-width:1365px){
+	.about_us_box_text1 {
+	    padding: 70px 0 0;
+	}
+	
+
+	.about_us_box .para {
+	    font-size: 14px;
+	}
+
+    img.banner_left_img {
+		width: 98% !important;
+	}
+
+	.professional_online_profiles_sec .grabbing_professional_box_right {
+	    padding: 25px 0 0;
+	}
+
+	.linkdin_profile_box a.btn-org-bd {
+	    padding: 9px 30px;
+	    font-size: 16px;
+	}
+
+	.grabbing_professional_box_right_btn a {
+	    padding: 11px 40px;
+	    font-size: 16px;
+	}
+	
+	.banner .banner_inner .banner_box h3 {
+	    font-size: 20px;
+	}
+
+	.banner .banner_inner .banner_box h1 {
+	    font-size: 44px;
+	}
+
+    .banner .banner_inner .banner_box {
+		/* padding: 55px 0 0; */
+	}
+
+	
+
+	.banner .banner_inner .banner_box ul li {
+	    font-size: 15px;
+	    padding: 5px 0 0;
+	}
+
+	section.sec_turbo {
+	    padding: 50px 0 20px 0px;
+	}
+
+	#resume_writing_service_page .banner .banner_inner .banner_box ul li {
+	    font-size: 13px;
+	    padding: 10px 0 0;
+	}
+
+
+	.banner .banner_inner img.banner_right_img {
+	    margin: 0px 0 0;
+    width: 110px;
+    right: 5px;
+    top: -7px;
+	}
+
+	.heading {
+	    font-size: 36px;
+	    line-height: 42px;
+	}
+
+	.detect_types_box h2 {
+	    line-height: 40px;
+	}
+
+	.para {
+	    font-size: 14px;
+	}
+
+	.plagiarism_works_box h3 {
+	    font-size: 18px;
+	    margin: 15px 0 10px;
+	}
+
+	.plagiarism_works_box p {
+	    font-size: 13.5px;
+	}
+
+	.sec_package .package-inner .package_boxes h3 {
+	    font-size: 20px;
+	    margin-top: 40px;
+	}
+
+	.sec_package .package-inner .package_boxes p {
+	    font-size: 13px;
+	    padding: 0 25px;
+	}
+
+	.sec_package .package-inner .package_boxes ul li {
+	    padding: 15px 0;
+	    margin: 0 30px;
+	    font-size: 12.5px !important;
+	}
+
+	section.sec_package .package-inner .package_boxes p {
+	    font-size: 12.5px;
+	}
+
+	.detect_types_box p {
+	    font-size: 14px;
+	}
+
+	.banner_inner_services_m a.btn-org {
+	    padding: 12px 15px !important;
+	    font-size: 16px !important;
+	}
+
+	.banner_inner_services_m a.btn-org-bd {
+	    padding: 10px 20px !important;
+	    font-size: 16px  !important;
+	}
+
+	.banner_box_home {
+	    left: 0 !important;
+	    padding: 60px 0 0 !important;
+	}
+
+	#resume_writing_service_page .banner .banner_inner .banner_box {
+	    padding: 40px 0 0;
+	}
+
+	.banner .banner_inner .banner_box {
+	    padding: 55px 0 0;
+	    left: 130px;
+	    position: relative;
+	}
+
+	.banner_inner_services_m {
+	    background-position: -80px top;
+	    padding: 0px 0 40px;
+	}
+
+	.banner_inner_services_m:before {
+	    background-position: 0px 20px;
+	    left: 50px;
+	}
+
+	#cover_letters_service_page .banner_inner_services_m:before  {
+	    background-position: 0 20px;
+	    left: -40px;
+	}
+
+	#resume_service_page .banner_inner_services_m:before {
+	    background-position: 0 20px;
+	}
+
+	#career_coaching_service_page .banner_inner_services_m:before{
+		background-position: 0px 20px;
+	}
+
+	#job_profiling_page .banner_inner_services_m:before {
+		background-position: 0 20px;
+	}
+
+	#professional_bio_writing .banner_inner_services_m:before{
+		background-position: 0 20px;
+	}
+
+	.form-btn-st {
+	    padding: 13px 30px;
+	    font-size: 16px;
+	}
+
+	.banner_inner_services_m .banner_right_form {
+	    width: 80%;
+	    position: relative;
+	    right: -40px;
+	    top: 10px;
+	}
+
+	.form-bnr-st .form-control {
+	    height: 46px;
+	}
+
+	.form-bnr-st textarea.form-control {
+	    height: 80px;
+	    padding: 10px 5px 10px;
+	}
+
+	.banner_right_form h2 {
+	    font-size: 28px;
+	    margin: 5px 0 10px;
+	}
+
+	.banner_right_form h3 {
+		margin: 10px -30.5px 0px;
+		font-size: 15px;
+	}
+
+	.button.top_services_box_btn a {
+	    padding: 11px 40px;
+	    font-size: 16px;
+	}
+
+	.career_coaching_clients_text p {
+	    padding: 10px 0 10px;
+	}
+
+	.career_coaching_clients_btn a {
+	    padding: 14px 26px 13px;
+	    font-size: 16px;
+	}
+
+	.coach_partner_box h3 {
+	    font-size: 13px;
+	}
+
+	.accordian_box ul {
+	    /* height: 64vh; */
+	}
+
+	.acc_tabs_list .nav-tabs>li>a {
+	    font-size: 16px;
+	    padding: 12px 0px;
+	}
+
+	section.sec_cta .cta_inner .button .btn-white,
+	section.sec_cta .cta_inner .button a {
+	    font-size: 16px;
+	    padding: 11px 40px;
+	}
+
+	section.sec_package .package-inner .package_boxes ul li:last-child {
+	    border-bottom: none;
+	    margin: 0 30px 25px;
+	}
+
+	.detect_types_box .button a {
+	    font-size: 16px;
+	    padding: 11px 30px;
+	}
+
+	.detect_types_box .button a.btn-org-bd {
+	    border: 2px solid #fc5216;
+	    padding: 9px 30px;
+	}
+
+	section.sec_turbo .turbo-inner .turbo-box {
+	    padding: 12px 0;
+	}
+
+	#quoteForm input#quoteSubmit {
+	    padding: 11px 60px;
+	    font-size: 16px;
+	}
+
+	footer.sec_footer .footer_boxes ul li {
+	    list-style: none;
+	    padding: 5px 0 0;
+	}
+
+	footer.sec_footer .footer_boxes ul li a {
+	    font-size: 13px;
+	}
+
+	footer.sec_footer .footer_boxes p {
+	    font-size: 13px;
+	}
+
+	.satisfaction_box:before {
+	    height: 200px;
+	}
+
+	.satisfaction_box h3 {
+	    font-size: 16px !important;
+	    margin: 30px 0 20px !important;
+	}
+
+	.satisfaction_box p {
+	    font-size: 13px !important;
+	}
+
+	#cover_letters_service_page .core-main22 {
+	    margin: 0 0 0;
+	}
+
+	#cover_letters_service_page .effective_cover_letters_sec {
+	    margin: -93px 0 0;
+	    padding: 130px 0 50px !important;
+	}
+
+	section.sec_winning_resume .winning_resume_inner .winning_resume_boxes p {
+	    font-size: 13px;
+	}
+
+	section.sec_winning_resume .winning_resume_inner .winning_resume_boxes h4 {
+	    font-size: 16px;
+	}
+
+	#home_page section.sec_package {
+	    display: block;
+	    padding: 40px 0 80px;
+	}
+
+	#cover_letters_service_page .faqs_sec {
+	    padding: 30px 0 0 !important;
+	}
+
+	.resume_samples_resume_sec .nav-tabs>li>a {
+	    margin-right: 50px;
+	    font-size: 15px;
+	}
+
+
+}
+
+@media (min-width:1200px) and (max-width:1279px){
+	
+	.banner .banner_inner img.banner_right_img {
+	    width: 110px;
+	    right: 15px;
+	}
+
+	.banner_inner_services_m {
+	    background-position: -110px top;
+	    padding: 0px 0 40px;
+	}
+
+	.banner .banner_inner .banner_box {
+	    padding: 55px 0 0;
+	    left: 130px;
+	    position: relative;
+	}
+
+	.banner_inner_services_m .banner_right_form {
+	    width: 75%;
+	    position: relative;
+	    right: 0px;
+	    top: 10px;
+	}
+
+	#cover_letters_service_page .banner_inner_services_m:before {
+	    background-position: 0 20px;
+	    left: -77px;
+	}
+}
+
+/*@media (min-width:1200px) and (max-width:1279px){
+	
+	.banner .banner_inner .banner_box h3 {
+	    font-size: 20px;
+	}
+
+	.banner .banner_inner .banner_box h1 {
+	    font-size: 44px;
+	}
+
+    .banner .banner_inner .banner_box {
+	}
+
+	.banner .banner_inner .banner_box ul li {
+	    font-size: 13px;
+	    padding: 5px 0 0;
+	}
+
+	.banner .banner_inner img.banner_right_img {
+	    margin: 0px 0 0;
+	    width: 120px;
+	    right: 30px;
+	}
+
+	img.banner_left_img {
+		width: 86% !important;
+		margin: 0 0 0px;
+	}
+
+	.heading {
+	    font-size: 36px;
+	    line-height: 42px;
+	}
+
+	.detect_types_box h2{
+		line-height: 42px;
+	}
+
+	.para {
+	    font-size: 13px;
+	}
+
+	.detect_types_sec {
+		padding: 0 0 0px;
+	}
+
+	.plagiarism_works_box h3 {
+	    font-size: 18px;
+	    margin: 15px 0 10px;
+	}
+
+	.plagiarism_works_box p {
+	    font-size: 13.5px;
+	}
+
+	.sec_package .package-inner .package_boxes h3 {
+	    font-size: 20px;
+	    margin-top: 40px;
+	}
+
+	.sec_package .package-inner .package_boxes p {
+	    font-size: 13px;
+	    padding: 0 25px;
+	}
+
+	.sec_package .package-inner .package_boxes ul li {
+	    margin: 0 30px;
+	    font-size: 13px;
+	}
+
+	.detect_types_box p {
+	    font-size: 14px;
+	}
+
+	.banner_inner_services_m a.btn-org {
+	    padding: 12px 15px !important;
+	    font-size: 16px !important;
+	}
+
+	.banner_inner_services_m a.btn-org-bd {
+	    padding: 10px 20px !important;
+	    font-size: 16px  !important;
+	}
+
+	.banner .banner_inner .banner_box {
+	    padding: 55px 0 0;
+	    left: 110px;
+	    position: relative;
+	}
+
+	.banner_inner_services_m {
+	    background-position: -157px top;
+	    padding: 0px 0 40px;
+	    position: relative;
+	    z-index: 1;
+	}
+
+	.banner_inner_services_m:before {
+	    background-position: -130px -0px;
+	}
+
+	.form-btn-st {
+	    padding: 13px 30px;
+	    font-size: 16px;
+	}
+
+	.banner_inner_services_m .banner_right_form {
+	    width: 80%;
+	    position: relative;
+	    right: 0px;
+	    top: 10px;
+	}
+
+	.form-bnr-st .form-control {
+	    height: 46px;
+	}
+
+	.form-bnr-st textarea.form-control {
+	    height: 80px;
+	    padding: 10px 5px 10px;
+	}
+
+	.banner_right_form h2 {
+	    font-size: 28px;
+	    margin: 5px 0 10px;
+	}
+
+	.banner_right_form h3 {
+		margin: 10px -30.5px 0px;
+		font-size: 15px;
+	}
+
+	section.sec_winning_resume .winning_resume_inner .winning_resume_boxes p {
+	    font-size: 13px;
+	}
+
+	section.sec_winning_resume .winning_resume_inner .winning_resume_boxes h4 {
+	    font-size: 16px;
+	}
+
+	.accordian_box ul {
+	    height: 60vh;
+	}
+
+	.core-main22 {
+	    margin: 10px 0 0;
+	}
+
+	#cover_letters_service_page .effective_cover_letters_sec {
+	    margin: -90px 0 0;
+	    padding: 150px 0 70px !important;
+	}
+
+	.resume_samples_resume_sec .nav-tabs>li>a {
+	    margin-right: 40px;
+	    font-size: 16px;
+	}
+
+
+}
+*/
+
+
+@media (max-width: 1200px){
+	.main-nav { display: none; }
+	.menu-Bar { display: block; }
+	.main-nav.open { display: flex; left: 0px; }
+	.main-nav { position: fixed; left: -210%; right: 0; top: 0; bottom: 0; margin: auto; background: #feb31e; width: 100vw; height: 100vh; display: flex; align-items: center; justify-content: center; flex-flow: column; z-index: 11; transition: all 0.4s ease; z-index: 3; overflow: auto; }
+	.main-nav ul li { display: block; }
+	.main-nav a { color: #fff; }
+	.mn-hd { font-size: 60px; }
+	ul.btm-bannlogos-ul { position: relative; text-align: center; }
+	ul.btm-bannlogos-ul li { height: auto; }
+	ul.btm-bannlogos-ul li img { display: inline-block; }
+	
+	.side-bar.active { display: none !important; }
+	.side-img-bann { display: none !important; }
+	.bann-padd { padding: 0px; }
+	.mn-slider .slide { padding: 50px 0; height: auto; }
+	.mn-slider .slide:before { display: none; }
+	.mn-btn { font-size: 14px; }
+	ul.check-bullets li { font-size: 14px; }
+	.btm-bannlogos-sec h4 span em:after { display: none; }
+	.main-nav a:hover{color: #000;}
+	.popWrap img{display: none;}
+	.mainPop {width: 100%;border-radius: 0px;height: 100%;padding: 50px 20px 20px;}
+	.formWrap{padding: 0px;}
+	.popup-header h4 {width: 100%;height: auto;font-size: 22px;line-height: 32px;}
+    .popup-header{margin-bottom: 15px;}
+    .row.popWrap{align-items: center;}
+    .popup-close{right: 20px;top: 10px;}
+    .pad-l-zero{padding-left: 15px;}
+    .pad-r-zero{padding-right: 15px;}
+    .pad-zero{padding-right: 15px;}
+    .mainPop .col-md-6{max-width: 100%; flex: 100%;}
+    .refundpage .container{width: 100%;}
+}
+
+
+@media (min-width: 1200px) and (max-width: 1600px){
+	.grabbing_professional_box_left_btn .btn-white {
+	    padding: 11px 40px;
+	    font-size: 16px;
+	}
+
+	.satisfaction_box_btn a.btn-org {
+	    padding: 11px 30px !important;
+	    font-size: 16px;
+	}
+
+	.satisfaction_box_btn a.btn-org-bd {
+	    padding: 11px 30px !important;
+	    font-size: 16px;
+	}
+
+	section.sec_package .package-inner .package_boxes .button a {
+	    padding: 12px 27px;
+	    font-size: 16px;
+	}
+}
