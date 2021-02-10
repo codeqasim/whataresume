@@ -62,38 +62,38 @@ $(".core-details").click(function(e) {
         //Remove the class and add it to the new target
        
        if($(this).find("h2").html() == "Chronological"){
-        $('.bg_circle img').attr('src','images/resume/resume_1.jpg');
+        $('.bg_circle img').attr('src','../images/resume/resume_1.jpg');
         $(".core-details").removeClass('red');
          $(this).addClass('red');
 
         
         }
         if($(this).find("h2").html() == "Functional"){
-         $('.bg_circle img').attr('src','images/resume/resume_2.jpg');
+         $('.bg_circle img').attr('src','../images/resume/resume_2.jpg');
           $(".core-details").removeClass('red');
           $(this).addClass('red');
        
         }
         if($(this).find("h2").html() == "Combination"){
-           $('.bg_circle img').attr('src','images/resume/resume_3.jpg');
+           $('.bg_circle img').attr('src','../images/resume/resume_3.jpg');
             $(".core-details").removeClass('red');
             $(this).addClass('red');
           
         }
         if($(this).find("h2").html() == "Targeted"){
-           $('.bg_circle img').attr('src','images/resume/resume_4.jpg');
+           $('.bg_circle img').attr('src','../images/resume/resume_4.jpg');
             $(".core-details").removeClass('red');
             $(this).addClass('red');
         
         }
         if($(this).find("h2").html() == "Mini-Resume"){
-            $('.bg_circle img').attr('src','images/resume/resume_5.jpg');
+            $('.bg_circle img').attr('src','../images/resume/resume_5.jpg');
              $(".core-details").removeClass('red');
              $(this).addClass('red');
          
         }
         if($(this).find("h2").html() == "Infographic Resume"){
-           $('.bg_circle img').attr('src','images/resume/resume_6.jpg');
+           $('.bg_circle img').attr('src','../images/resume/resume_6.jpg');
             $(".core-details").removeClass('red');
             $(this).addClass('red');
        
@@ -110,7 +110,7 @@ function AddRedClass() {
   //Remove the class and add it to the new target
  boxes.removeClass('red').eq(count).addClass('red');
  if(boxes.eq(count).find("h2").html() == "Chronological"){
-  $('.bg_circle img').attr('src','images/resume/resume_1.jpg');
+  $('.bg_circle img').attr('src','themes/default/assets/images/resume/resume_1.jpg');
   }
   if(boxes.eq(count).find("h2").html() == "Functional"){
    $('.bg_circle img').attr('src','images/resume/resume_2.jpg');
@@ -619,3 +619,4 @@ $(document).ready(function(){
         customClass: 'popover-custom-alt'
     });
 });
+

@@ -43,14 +43,14 @@
                   <!--  <li><a>4370 Chicago Dr. SW #520 Grandville MI 49418</a></li> -->
                 </ul>
                 <h3 class="footer_title payment-methods"> Our Secure Payment Methods </h3>
-                <img src="images/payment-icon2.png" class="img-responsive">
+                <img src="<?php echo $theme_url;?>assets/images/payment-icon2.png" class="img-responsive">
                 <h3 class="footer_title payment-methods">Follow Us</h3>
                 <ul class="social_icon_footer">
                   <li><a href="Resumeprosonlineofficial/index.htm?modal=admin_todo_tour" target="_blank"><i class="fa fa-facebook"></i></a></li>
                   <!-- <li><a href="" target="_blank"><i class="fa fa-vimeo"></i></a></li> -->
-                  <li><a href="https://www.trustpilot.com/review/resumeprosonline.com" target="_blank"><img class="bar_icon" src="images/trustpilot.png"></a></li>
-                  <li><a href="en/us/company/resume-pros-online/d7yaY/index.htm" target="_blank"><img class="bar_icon" src="images/bar.png"></a></li>
-                  <li><a href="company-reviews/store/resumeprosonline-com.html" target="_blank"><img class="bar_icon" src="images/rev.png"></a></li>
+                  <li><a href="https://www.trustpilot.com/review/resumeprosonline.com" target="_blank"><img class="bar_icon" src="<?php echo $theme_url;?>assets/images/trustpilot.png"></a></li>
+                  <li><a href="en/us/company/resume-pros-online/d7yaY/index.htm" target="_blank"><img class="bar_icon" src="<?php echo $theme_url;?>assets/images/bar.png"></a></li>
+                  <li><a href="company-reviews/store/resumeprosonline-com.html" target="_blank"><img class="bar_icon" src="<?php echo $theme_url;?>assets/images/rev.png"></a></li>
                 </ul>
               </div>
             </div>
