@@ -71,72 +71,7 @@
         </div>
       </div>
     </footer>
-    <!-- <div style="display: none;" class="popupform" id="popupform">
-      <h2>We are here to help!</h2>
-      <p>Providing you the perfect solution for your business needs. Let's work together and unlock doors to success.</p>
-      <form action="mail.php" method="post" class="validate-popupform">
-        <div class="row">
-          <div class="col-md-12">
-            <ul>
-              <li> <i class="fa fa-user" aria-hidden="true"></i>
-                <input type="text" class="required" required placeholder="Full Name *" name="cn">
-              </li>
-            </ul>
-          </div>
-          <div class="col-md-6">
-            <ul>
-              <li> <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                <input type="email" class="required email" required placeholder="Email Address *" name="em">
-              </li>
-            </ul>
-          </div>
-          <div class="col-md-6">
-            <ul>
-              <li> <i class="fa fa-phone" aria-hidden="true"></i>
-                <input type="text" class="required number" minlength="10" required placeholder="Phone No. *" name="pn" required="">
-              </li>
-            </ul>
-          </div>
-          <div class="col-md-12">
-            <ul>
-              <li> <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
-                <textarea name="msg" class="required" required placeholder="To help us understand better, enter a brief description about your project."></textarea>
-              </li>
-            </ul>
-          </div>
-          <div class="col-md-12">
-            <ul>
-              <li>
-                <input type="submit"  value="Submit">
-                <input type="hidden" name="send" value="1" />
-                <input type="hidden" name="lead_area" value="for £29" class="leadprice" />
 
-                <input type="hidden" name="lb_source"     value="Organic" />
-                <input type="hidden" name="lb_source_cat"   value="" />
-                <input type="hidden" name="lb_source_nam"   value="" />
-                <input type="hidden" name="lb_source_ema"   value="" />
-                <input type="hidden" name="lb_source_con"   value="" />
-                <input type="hidden" name="lb_source_pho"   value="" />
-                <input type="hidden" name="lb_source_off"   value="" />
-
-
-                <input type="hidden" name="fullpageurl"   value="" />
-                <input type="hidden" name="pageurl"     value="" />
-
-
-                <input type="hidden" name="ip2loc_ip"     value="" />
-                <input type="hidden" name="ip2loc_isp"    value="" />
-                <input type="hidden" name="ip2loc_org"    value="" />
-                <input type="hidden" name="ip2loc_country"  value="" />
-                <input type="hidden" name="ip2loc_region"   value="" />
-                <input type="hidden" name="ip2loc_city"   value="" />
-                <input type="hidden" name="token" value=""/>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </form>
-      </div> -->
     <div class="black-layout"></div>
     <div class="popup popup_new_form  mainPop viewPop">
       <a class="popup-close" href="javascript:;">
@@ -192,6 +127,7 @@
         </div>
       </div>
     </div>
+    <script src="<?php echo $theme_url;?>assets/js/jquery-1.10.2.min.js"></script>
     <script src="<?php echo $theme_url;?>assets/js/bootstrap.min.js"></script>
     <script src="<?php echo $theme_url;?>assets/js/chat.js"></script>
     <script src="<?php echo $theme_url;?>assets/js/wow.min.js"></script>
@@ -199,7 +135,7 @@
     <script src="<?php echo $theme_url;?>assets/js/slick.js"></script>
     <script src="<?php echo $theme_url;?>assets/js/accordian-jquery-ui.js"></script>
     <script src="<?php echo $theme_url;?>assets/js/owl.carousel.min.js"></script>
-    <script src='<?php echo $theme_url;?>assets/js/bootstrap-popover-custom-class.js'></script>
+    <script src="<?php echo $theme_url;?>assets/js/bootstrap-popover-custom-class.js"></script>
     <script src="<?php echo $theme_url;?>assets/js/custom.js"></script>
     <script>
       function order_now_value(objButton){
