@@ -1,4 +1,4 @@
-      <section class="sec_cta ">
+<!--      <section class="sec_cta ">
         <div class="container">
           <div class="">
             <div class="cta_inner wow rubberBand">
@@ -15,7 +15,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section>-->
       <section class="sec_testimonials">
         <div class="container">
           <div class="row">
@@ -199,7 +199,7 @@
         <!-- end container -->
       </section>
 
-<footer class="sec_footer">
+<footer class="sec_footer" style="background:#5050ff">
       <div class="container">
         <div class="row">
           <div class="footer_boxes">
@@ -262,10 +262,10 @@
         <div class="row">
           <div class="col-sm-12">
             <p>Copyright 2020. Resume Pros Online All Rights Reserved.</p>
-            <ul>
-              <li><a href="privacy-policy.php.html">Privacy Policy</a></li>
-              <li><a href="term-of-use.php.html">Terms & Conditions</a></li>
-            </ul>
+            <!--<ul>
+              <li><a href="#">Privacy Policy</a></li>
+              <li><a href="#">Terms & Conditions</a></li>
+            </ul>-->
           </div>
         </div>
       </div>

@@ -18,7 +18,7 @@
                   <ul class="">
                     <li><i class="fa fa-check"></i> Experienced Writers & Impressive Resources</li>
                     <li><i class="fa fa-check"></i> Powerful ATS-Compliant Resumes for Range of Careers</li>
-                    <li><i class="fa fa-check"></i> No Revision Limits – We Write Until Your Resume Is Perfect</li>
+                    <li><i class="fa fa-check"></i> No Revision Limits - We Write Until Your Resume Is Perfect</li>
                     <li><i class="fa fa-check"></i> Online Certified Career Coaching and Consultancy </li>
                     <li><i class="fa fa-check"></i> Contemporary and Job-Winning Cover Letters</li>
                     <li><i class="fa fa-check"></i> 100% Seamless Job Targeting Strategies </li>
@@ -568,7 +568,7 @@
           <div class="container">
             <div class="">
               <div class="cta_inner wow rubberBand">
-                <h2 class="heading">We Help You Ace Your Career by Registering You On The World’s Most Trusted Referral Portals </h2>
+                <h2 class="heading">We Help You Ace Your Career by Registering You On The World's Most Trusted Referral Portals </h2>
                 <div class="button">
                   <a class="btn-org fill" href="tel:844-640-8881"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp;
                   844-640-8881</a>
@@ -593,7 +593,7 @@
             <div class="plagiarism_works_boxes">
               <div class="col-sm-3">
                 <div class="plagiarism_works_box wow bounceInLeft">
-                  <a href="resume-writing.php.html">
+                  <a href="#">
                     <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon1.png" alt="Upload your document">
                     <h3>Resume Writing</h3>
                     <p>Take charge, unleash your true potential and be seen with our immaculate resume writing solutions</p>
@@ -602,7 +602,7 @@
               </div>
               <div class="col-sm-3">
                 <div class="plagiarism_works_box wow bounceInUp">
-                  <a href="cover-letter-writing.php.html">
+                  <a href="#">
                     <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon2.png" alt="Advanced Plagiarism Checking Technology">
                     <h3>Cover Letter Writing</h3>
                     <p>Our compelling cover-letter writing services will help you sell as the perfect candidate in the market</p>
@@ -611,7 +611,7 @@
               </div>
               <div class="col-sm-3">
                 <div class="plagiarism_works_box wow bounceInUp">
-                  <a href="linkedin-profile-writing.php.html">
+                  <a href="#">
                     <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon6.png" alt="Comprehensive Plagiarism Database">
                     <h3>LinkedIn Profile Writing</h3>
                     <p>Confidently network online, build industry influence and drive employment opportunities with a professionally written LinkedIn profile</p>
@@ -620,7 +620,7 @@
               </div>
               <div class="col-sm-3">
                 <div class="plagiarism_works_box wow bounceInRight">
-                  <a href="career-coaching.php.html">
+                  <a href="#">
                     <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon4.png" alt="Safe, Secure and Confidential">
                     <h3>Career Coaching & Development</h3>
                     <p>Our career coaches can provide you with the guidance and the expert assistance you need to unlock your future potential</p>
@@ -629,7 +629,7 @@
               </div>
               <div class="col-sm-3">
                 <div class="plagiarism_works_box wow bounceInLeft">
-                  <a href="job-profiling.php.html">
+                  <a href="#">
                     <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon5.png" alt="Upload your document">
                     <h3>Job Profiling Services</h3>
                     <p>With our structured job profiling process, you as a recruiter can draw up accurate job profiles and as a candidate utilize the diverse range of job portals online</p>
@@ -638,7 +638,7 @@
               </div>
               <div class="col-sm-3">
                 <div class="plagiarism_works_box wow bounceInUp">
-                  <a href="">
+                  <a href="#">
                     <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon3.png" alt="Advanced Plagiarism Checking Technology">
                     <h3>Entry Level Resume Writing Service</h3>
                     <p>Our Certified Professional Resume Writers and Career Coaches work round the clock eminently to put you on show in front of your prospective employers.</p>
@@ -647,7 +647,7 @@
               </div>
               <div class="col-sm-3">
                 <div class="plagiarism_works_box wow bounceInUp">
-                  <a href="professional-bio.php.html">
+                  <a href="#">
                     <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon7.png" alt="Comprehensive Plagiarism Database">
                     <h3>Professional Bio Development</h3>
                     <p>Our bio writing service has been designed in such a way that we have a variety of different writers at your disposal that are experts in your specific industry</p>
@@ -656,7 +656,7 @@
               </div>
               <div class="col-sm-3">
                 <div class="plagiarism_works_box wow bounceInRight">
-                  <a href="">
+                  <a href="#">
                     <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon8.png" alt="Safe, Secure and Confidential">
                     <h3>Web-Based Resume Development Service </h3>
                     <p>Display your skills, accomplishments and share your story with your recruiters through a strong digital presence.</p>
