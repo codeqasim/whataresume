@@ -1189,13 +1189,12 @@ section.sec_testimonials .testimonials_box_l .slick-dots li {
 	-ms-filter:grayscale(93%) contrast(80%) brightness(112%) url(#duotone);
 }
 .get_quote {
-	background: url(../images/get_quote-bg.jpg) no-repeat center;
+	background: #eee;
 	padding: 60px 0 50px;
 	display: block;
 	background-size: cover;
 }
 .get_quote h4 {
-	color: #fff;
 	text-align: center;
 	margin-bottom: 20px;
 }
@@ -3154,7 +3153,7 @@ h3.review_name {
 }
 /*about US*/
 .about_banner {
-	background-image: url(../images/about-banner.jpg);
+	background: #5050ff;
 }
 .review_banner {
 	background-image: url(../images/reviews-banner.jpg);
@@ -3364,9 +3363,9 @@ section.thankYouPage.pt-5.pb-5 {
 .pad-zero { padding: 0px; }
 .pad-l-zero { padding-left: 0px; }
 .pad-r-zero { padding-right: 0px; }
-.popup-close {transition-duration: .5s;position: absolute;font-size: 20px;background: #FFF;color: #fbab16;right: 40px;top: 20px;border: 1px solid #fdaf1a;border-radius: 41px;width: 30px;height: 30px;display: flex;align-items: center;justify-content: center;z-index: 1;}
+.popup-close {transition-duration: .5s;position: absolute;font-size: 20px;background: #FFF;color: #fbab16;right: 40px;top: 20px;border: 1px solid #fb3118;border-radius: 41px;width: 30px;height: 30px;display: flex;align-items: center;justify-content: center;z-index: 1;}
 .popup-close:hover{
-	color:#ff4b00;
+	color:#fb3118;
 	border: 1px solid #ff4b00;
 }
 .popWrap img {display: block;position: relative;top: -60px;}

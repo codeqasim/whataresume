@@ -7225,7 +7225,7 @@
     //! locale : Klingon [tlh]
     //! author : Dominika Kruk : https://github.com/amaranthrose
 
-    var numbersNouns = 'pagh_wa’_cha’_wej_loS_vagh_jav_Soch_chorgh_Hut'.split('_');
+    var numbersNouns = 'pagh_wa'_cha'_wej_loS_vagh_jav_Soch_chorgh_Hut'.split('_');
 
     function translateFuture(output) {
         var time = output;
@@ -7242,7 +7242,7 @@
     function translatePast(output) {
         var time = output;
         time = (output.indexOf('jaj') !== -1) ?
-        time.slice(0, -3) + 'Hu’' :
+        time.slice(0, -3) + 'Hu'' :
         (output.indexOf('jar') !== -1) ?
         time.slice(0, -3) + 'wen' :
         (output.indexOf('DIS') !== -1) ?
@@ -7285,8 +7285,8 @@
     }
 
     var tlh = moment.defineLocale('tlh', {
-        months : 'tera’ jar wa’_tera’ jar cha’_tera’ jar wej_tera’ jar loS_tera’ jar vagh_tera’ jar jav_tera’ jar Soch_tera’ jar chorgh_tera’ jar Hut_tera’ jar wa’maH_tera’ jar wa’maH wa’_tera’ jar wa’maH cha’'.split('_'),
-        monthsShort : 'jar wa’_jar cha’_jar wej_jar loS_jar vagh_jar jav_jar Soch_jar chorgh_jar Hut_jar wa’maH_jar wa’maH wa’_jar wa’maH cha’'.split('_'),
+        months : 'tera' jar wa'_tera' jar cha'_tera' jar wej_tera' jar loS_tera' jar vagh_tera' jar jav_tera' jar Soch_tera' jar chorgh_tera' jar Hut_tera' jar wa'maH_tera' jar wa'maH wa'_tera' jar wa'maH cha''.split('_'),
+        monthsShort : 'jar wa'_jar cha'_jar wej_jar loS_jar vagh_jar jav_jar Soch_jar chorgh_jar Hut_jar wa'maH_jar wa'maH wa'_jar wa'maH cha''.split('_'),
         monthsParseExact : true,
         weekdays : 'lojmItjaj_DaSjaj_povjaj_ghItlhjaj_loghjaj_buqjaj_ghInjaj'.split('_'),
         weekdaysShort : 'lojmItjaj_DaSjaj_povjaj_ghItlhjaj_loghjaj_buqjaj_ghInjaj'.split('_'),
@@ -7301,9 +7301,9 @@
         },
         calendar : {
             sameDay: '[DaHjaj] LT',
-            nextDay: '[wa’leS] LT',
+            nextDay: '[wa'leS] LT',
             nextWeek: 'LLL',
-            lastDay: '[wa’Hu’] LT',
+            lastDay: '[wa'Hu'] LT',
             lastWeek: 'LLL',
             sameElse: 'L'
         },
@@ -7311,15 +7311,15 @@
             future : translateFuture,
             past : translatePast,
             s : 'puS lup',
-            m : 'wa’ tup',
+            m : 'wa' tup',
             mm : tlh__translate,
-            h : 'wa’ rep',
+            h : 'wa' rep',
             hh : tlh__translate,
-            d : 'wa’ jaj',
+            d : 'wa' jaj',
             dd : tlh__translate,
-            M : 'wa’ jar',
+            M : 'wa' jar',
             MM : tlh__translate,
-            y : 'wa’ DIS',
+            y : 'wa' DIS',
             yy : tlh__translate
         },
         ordinalParse: /\d{1,2}\./,
@@ -7612,9 +7612,9 @@
     }
     function weekdaysCaseReplace(m, format) {
         var weekdays = {
-            'nominative': 'неділя_понеділок_вівторок_середа_четвер_п’ятниця_субота'.split('_'),
-            'accusative': 'неділю_понеділок_вівторок_середу_четвер_п’ятницю_суботу'.split('_'),
-            'genitive': 'неділі_понеділка_вівторка_середи_четверга_п’ятниці_суботи'.split('_')
+            'nominative': 'неділя_понеділок_вівторок_середа_четвер_п'ятниця_субота'.split('_'),
+            'accusative': 'неділю_понеділок_вівторок_середу_четвер_п'ятницю_суботу'.split('_'),
+            'genitive': 'неділі_понеділка_вівторка_середи_четверга_п'ятниці_суботи'.split('_')
         },
         nounCase = (/(\[[ВвУу]\]) ?dddd/).test(format) ?
             'accusative' :

@@ -497,7 +497,7 @@ Merges the improvements from 4.1 that could easily be applied to the 3.x code. A
 *   Support ECMAScript 6 in the [JavaScript mode](http://codemirror.net/mode/javascript/index.html).
 *   Improved indentation for the [CoffeeScript mode](http://codemirror.net/mode/coffeescript/index.html).
 *   Make non-printable-character representation [configurable](http://codemirror.net/doc/manual.html#option_specialChars).
-*   Add ‘notification’ functionality to [dialog](http://codemirror.net/doc/manual.html#addon_dialog) addon.
+*   Add ‘notification' functionality to [dialog](http://codemirror.net/doc/manual.html#addon_dialog) addon.
 *   Full [list of patches](https://github.com/codemirror/CodeMirror/compare/3.19.0...3.20.0).
 
 ## 3.19.0 (2013-10-21)

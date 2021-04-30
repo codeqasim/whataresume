@@ -13,7 +13,7 @@
         <link rel="stylesheet" type="text/css" href="<?php echo $theme_url;?>assets/css/slick-theme.css">
         <link rel="stylesheet" type="text/css" href="<?php echo $theme_url;?>assets/css/style.css">
         <link rel="stylesheet" type="text/css" href="<?php echo $theme_url;?>assets/css/responsive.css">
-        <link rel="stylesheet" type="text/css" href="<?php echo $theme_url;?>assets/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
         <link rel="stylesheet" type="text/css" href="<?php echo $theme_url;?>assets/css/fancybox.css">
         <link href="<?php echo $theme_url;?>/assets/css/css.css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
         <link rel="shortcut icon" type="text/css" href="<?php echo favicon; ?>">

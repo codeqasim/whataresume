@@ -45787,7 +45787,7 @@
     //Current parsing method doesn't allow parsing correctly months 10, 11 and 12.
     /*
      * test('parse', function (assert) {
-        var tests = 'tera’ jar wa’.jar wa’_tera’ jar cha’.jar cha’_tera’ jar wej.jar wej_tera’ jar loS.jar loS_tera’ jar vagh.jar vagh_tera’ jar jav.jar jav_tera’ jar Soch.jar Soch_tera’ jar chorgh.jar chorgh_tera’ jar Hut.jar Hut_tera’ jar wa’maH.jar wa’maH_tera’ jar wa’maH wa’.jar wa’maH wa’_tera’ jar wa’maH cha’.jar wa’maH cha’'.split('_'), i;
+        var tests = 'tera' jar wa'.jar wa'_tera' jar cha'.jar cha'_tera' jar wej.jar wej_tera' jar loS.jar loS_tera' jar vagh.jar vagh_tera' jar jav.jar jav_tera' jar Soch.jar Soch_tera' jar chorgh.jar chorgh_tera' jar Hut.jar Hut_tera' jar wa'maH.jar wa'maH_tera' jar wa'maH wa'.jar wa'maH wa'_tera' jar wa'maH cha'.jar wa'maH cha''.split('_'), i;
         function equalTest(input, mmm, i) {
             assert.equal(moment(input, mmm).month(), i, input + ' should be month ' + (i + 1));
         }
@@ -45806,9 +45806,9 @@
     */
     test('format', function (assert) {
         var a = [
-                ['dddd, MMMM Do YYYY, h:mm:ss a',      'lojmItjaj, tera’ jar cha’ 14. 2010, 3:25:50 pm'],
+                ['dddd, MMMM Do YYYY, h:mm:ss a',      'lojmItjaj, tera' jar cha' 14. 2010, 3:25:50 pm'],
                 ['ddd, hA',                            'lojmItjaj, 3PM'],
-                ['M Mo MM MMMM MMM',                   '2 2. 02 tera’ jar cha’ jar cha’'],
+                ['M Mo MM MMMM MMM',                   '2 2. 02 tera' jar cha' jar cha''],
                 ['YYYY YY',                            '2010 10'],
                 ['D Do DD',                            '14 14. 14'],
                 ['d do dddd ddd dd',                   '0 0. lojmItjaj lojmItjaj lojmItjaj'],
@@ -45822,13 +45822,13 @@
                 ['[DIS jaj] DDDo',                     'DIS jaj 45.'],
                 ['LTS',                                '15:25:50'],
                 ['L',                                  '14.02.2010'],
-                ['LL',                                 '14 tera’ jar cha’ 2010'],
-                ['LLL',                                '14 tera’ jar cha’ 2010 15:25'],
-                ['LLLL',                               'lojmItjaj, 14 tera’ jar cha’ 2010 15:25'],
+                ['LL',                                 '14 tera' jar cha' 2010'],
+                ['LLL',                                '14 tera' jar cha' 2010 15:25'],
+                ['LLLL',                               'lojmItjaj, 14 tera' jar cha' 2010 15:25'],
                 ['l',                                  '14.2.2010'],
-                ['ll',                                 '14 jar cha’ 2010'],
-                ['lll',                                '14 jar cha’ 2010 15:25'],
-                ['llll',                               'lojmItjaj, 14 jar cha’ 2010 15:25']
+                ['ll',                                 '14 jar cha' 2010'],
+                ['lll',                                '14 jar cha' 2010 15:25'],
+                ['llll',                               'lojmItjaj, 14 jar cha' 2010 15:25']
             ],
             b = moment(new Date(2010, 1, 14, 15, 25, 50, 125)),
             i;
@@ -45875,7 +45875,7 @@
     });
 
     test('format month', function (assert) {
-        var expected = 'tera’ jar wa’ jar wa’_tera’ jar cha’ jar cha’_tera’ jar wej jar wej_tera’ jar loS jar loS_tera’ jar vagh jar vagh_tera’ jar jav jar jav_tera’ jar Soch jar Soch_tera’ jar chorgh jar chorgh_tera’ jar Hut jar Hut_tera’ jar wa’maH jar wa’maH_tera’ jar wa’maH wa’ jar wa’maH wa’_tera’ jar wa’maH cha’ jar wa’maH cha’'.split('_'), i;
+        var expected = 'tera' jar wa' jar wa'_tera' jar cha' jar cha'_tera' jar wej jar wej_tera' jar loS jar loS_tera' jar vagh jar vagh_tera' jar jav jar jav_tera' jar Soch jar Soch_tera' jar chorgh jar chorgh_tera' jar Hut jar Hut_tera' jar wa'maH jar wa'maH_tera' jar wa'maH wa' jar wa'maH wa'_tera' jar wa'maH cha' jar wa'maH cha''.split('_'), i;
         for (i = 0; i < expected.length; i++) {
             assert.equal(moment([2011, i, 1]).format('MMMM MMM'), expected[i], expected[i]);
         }
@@ -45891,37 +45891,37 @@
     test('from', function (assert) {
         var start = moment([2007, 1, 28]);
         assert.equal(start.from(moment([2007, 1, 28]).add({s: 44}), true),  'puS lup',  '44 seconds = a few seconds');
-        assert.equal(start.from(moment([2007, 1, 28]).add({s: 45}), true),  'wa’ tup',        '45 seconds = a minute');
-        assert.equal(start.from(moment([2007, 1, 28]).add({s: 89}), true),  'wa’ tup',        '89 seconds = a minute');
-        assert.equal(start.from(moment([2007, 1, 28]).add({s: 90}), true),  'cha’ tup',      '90 seconds = 2 minutes');
+        assert.equal(start.from(moment([2007, 1, 28]).add({s: 45}), true),  'wa' tup',        '45 seconds = a minute');
+        assert.equal(start.from(moment([2007, 1, 28]).add({s: 89}), true),  'wa' tup',        '89 seconds = a minute');
+        assert.equal(start.from(moment([2007, 1, 28]).add({s: 90}), true),  'cha' tup',      '90 seconds = 2 minutes');
         assert.equal(start.from(moment([2007, 1, 28]).add({m: 44}), true),  'loSmaH loS tup',     '44 minutes = 44 minutes');
-        assert.equal(start.from(moment([2007, 1, 28]).add({m: 45}), true),  'wa’ rep',       '45 minutes = an hour');
-        assert.equal(start.from(moment([2007, 1, 28]).add({m: 89}), true),  'wa’ rep',       '89 minutes = an hour');
-        assert.equal(start.from(moment([2007, 1, 28]).add({m: 90}), true),  'cha’ rep',     '90 minutes = 2 hours');
+        assert.equal(start.from(moment([2007, 1, 28]).add({m: 45}), true),  'wa' rep',       '45 minutes = an hour');
+        assert.equal(start.from(moment([2007, 1, 28]).add({m: 89}), true),  'wa' rep',       '89 minutes = an hour');
+        assert.equal(start.from(moment([2007, 1, 28]).add({m: 90}), true),  'cha' rep',     '90 minutes = 2 hours');
         assert.equal(start.from(moment([2007, 1, 28]).add({h: 5}), true),   'vagh rep',      '5 hours = 5 hours');
-        assert.equal(start.from(moment([2007, 1, 28]).add({h: 21}), true),  'cha’maH wa’ rep',     '21 hours = 21 hours');
-        assert.equal(start.from(moment([2007, 1, 28]).add({h: 22}), true),  'wa’ jaj',       '22 hours = a day');
-        assert.equal(start.from(moment([2007, 1, 28]).add({h: 35}), true),  'wa’ jaj',       '35 hours = a day');
-        assert.equal(start.from(moment([2007, 1, 28]).add({h: 36}), true),  'cha’ jaj',         '36 hours = 2 days');
-        assert.equal(start.from(moment([2007, 1, 28]).add({d: 1}), true),   'wa’ jaj',       '1 day = a day');
+        assert.equal(start.from(moment([2007, 1, 28]).add({h: 21}), true),  'cha'maH wa' rep',     '21 hours = 21 hours');
+        assert.equal(start.from(moment([2007, 1, 28]).add({h: 22}), true),  'wa' jaj',       '22 hours = a day');
+        assert.equal(start.from(moment([2007, 1, 28]).add({h: 35}), true),  'wa' jaj',       '35 hours = a day');
+        assert.equal(start.from(moment([2007, 1, 28]).add({h: 36}), true),  'cha' jaj',         '36 hours = 2 days');
+        assert.equal(start.from(moment([2007, 1, 28]).add({d: 1}), true),   'wa' jaj',       '1 day = a day');
         assert.equal(start.from(moment([2007, 1, 28]).add({d: 5}), true),   'vagh jaj',         '5 days = 5 days');
-        assert.equal(start.from(moment([2007, 1, 28]).add({d: 25}), true),  'cha’maH vagh jaj',        '25 days = 25 days');
-        assert.equal(start.from(moment([2007, 1, 28]).add({d: 26}), true),  'wa’ jar',       '26 days = a month');
-        assert.equal(start.from(moment([2007, 1, 28]).add({d: 30}), true),  'wa’ jar',       '30 days = a month');
-        assert.equal(start.from(moment([2007, 1, 28]).add({d: 43}), true),  'wa’ jar',       '43 days = a month');
-        assert.equal(start.from(moment([2007, 1, 28]).add({d: 46}), true),  'cha’ jar',    '46 days = 2 months');
-        assert.equal(start.from(moment([2007, 1, 28]).add({d: 74}), true),  'cha’ jar',    '75 days = 2 months');
+        assert.equal(start.from(moment([2007, 1, 28]).add({d: 25}), true),  'cha'maH vagh jaj',        '25 days = 25 days');
+        assert.equal(start.from(moment([2007, 1, 28]).add({d: 26}), true),  'wa' jar',       '26 days = a month');
+        assert.equal(start.from(moment([2007, 1, 28]).add({d: 30}), true),  'wa' jar',       '30 days = a month');
+        assert.equal(start.from(moment([2007, 1, 28]).add({d: 43}), true),  'wa' jar',       '43 days = a month');
+        assert.equal(start.from(moment([2007, 1, 28]).add({d: 46}), true),  'cha' jar',    '46 days = 2 months');
+        assert.equal(start.from(moment([2007, 1, 28]).add({d: 74}), true),  'cha' jar',    '75 days = 2 months');
         assert.equal(start.from(moment([2007, 1, 28]).add({d: 76}), true),  'wej jar',    '76 days = 3 months');
-        assert.equal(start.from(moment([2007, 1, 28]).add({M: 1}), true),   'wa’ jar',       '1 month = a month');
+        assert.equal(start.from(moment([2007, 1, 28]).add({M: 1}), true),   'wa' jar',       '1 month = a month');
         assert.equal(start.from(moment([2007, 1, 28]).add({M: 5}), true),   'vagh jar',    '5 months = 5 months');
-        assert.equal(start.from(moment([2007, 1, 28]).add({d: 345}), true), 'wa’ DIS',           '345 days = a year');
-        assert.equal(start.from(moment([2007, 1, 28]).add({d: 548}), true), 'cha’ DIS',        '548 days = 2 years');
-        assert.equal(start.from(moment([2007, 1, 28]).add({y: 1}), true),   'wa’ DIS',           '1 year = a year');
+        assert.equal(start.from(moment([2007, 1, 28]).add({d: 345}), true), 'wa' DIS',           '345 days = a year');
+        assert.equal(start.from(moment([2007, 1, 28]).add({d: 548}), true), 'cha' DIS',        '548 days = 2 years');
+        assert.equal(start.from(moment([2007, 1, 28]).add({y: 1}), true),   'wa' DIS',           '1 year = a year');
         assert.equal(start.from(moment([2007, 1, 28]).add({y: 5}), true),   'vagh DIS',         '5 years = 5 years');
-        assert.equal(start.from(moment([2007, 1, 28]).add({y: 112}), true), 'wa’vatlh wa’maH cha’ DIS',       '112 years = 112 years');
-        assert.equal(start.from(moment([2007, 1, 28]).add({y: 122}), true), 'wa’vatlh cha’maH cha’ DIS',      '122 years = 122 years');
-        assert.equal(start.from(moment([2007, 1, 28]).add({y: 213}), true), 'cha’vatlh wa’maH wej DIS',       '213 years = 213 years');
-        assert.equal(start.from(moment([2007, 1, 28]).add({y: 223}), true), 'cha’vatlh cha’maH wej DIS',      '223 years = 223 years');
+        assert.equal(start.from(moment([2007, 1, 28]).add({y: 112}), true), 'wa'vatlh wa'maH cha' DIS',       '112 years = 112 years');
+        assert.equal(start.from(moment([2007, 1, 28]).add({y: 122}), true), 'wa'vatlh cha'maH cha' DIS',      '122 years = 122 years');
+        assert.equal(start.from(moment([2007, 1, 28]).add({y: 213}), true), 'cha'vatlh wa'maH wej DIS',       '213 years = 213 years');
+        assert.equal(start.from(moment([2007, 1, 28]).add({y: 223}), true), 'cha'vatlh cha'maH wej DIS',      '223 years = 223 years');
     });
 
     test('suffix', function (assert) {
@@ -45935,15 +45935,15 @@
 
     test('fromNow', function (assert) {
         assert.equal(moment().add({s: 30}).fromNow(), 'puS lup pIq', 'in a few seconds');
-        assert.equal(moment().add({h: 1}).fromNow(), 'wa’ rep pIq', 'in an hour');
+        assert.equal(moment().add({h: 1}).fromNow(), 'wa' rep pIq', 'in an hour');
         assert.equal(moment().add({d: 5}).fromNow(), 'vagh leS', 'in 5 days');
-        assert.equal(moment().add({M: 2}).fromNow(), 'cha’ waQ', 'in 2 months');
-        assert.equal(moment().add({y: 1}).fromNow(), 'wa’ nem', 'in a year');
+        assert.equal(moment().add({M: 2}).fromNow(), 'cha' waQ', 'in 2 months');
+        assert.equal(moment().add({y: 1}).fromNow(), 'wa' nem', 'in a year');
         assert.equal(moment().add({s: -30}).fromNow(), 'puS lup ret', 'a few seconds ago');
-        assert.equal(moment().add({h: -1}).fromNow(), 'wa’ rep ret', 'an hour ago');
-        assert.equal(moment().add({d: -5}).fromNow(), 'vagh Hu’', '5 days ago');
-        assert.equal(moment().add({M: -2}).fromNow(), 'cha’ wen', '2 months ago');
-        assert.equal(moment().add({y: -1}).fromNow(), 'wa’ ben', 'a year ago');
+        assert.equal(moment().add({h: -1}).fromNow(), 'wa' rep ret', 'an hour ago');
+        assert.equal(moment().add({d: -5}).fromNow(), 'vagh Hu'', '5 days ago');
+        assert.equal(moment().add({M: -2}).fromNow(), 'cha' wen', '2 months ago');
+        assert.equal(moment().add({y: -1}).fromNow(), 'wa' ben', 'a year ago');
     });
 
     test('calendar day', function (assert) {
@@ -45952,9 +45952,9 @@
         assert.equal(moment(a).calendar(),                   'DaHjaj 12:00',     'today at the same time');
         assert.equal(moment(a).add({m: 25}).calendar(),      'DaHjaj 12:25',     'Now plus 25 min');
         assert.equal(moment(a).add({h: 1}).calendar(),       'DaHjaj 13:00',     'Now plus 1 hour');
-        assert.equal(moment(a).add({d: 1}).calendar(),       'wa’leS 12:00',     'tomorrow at the same time');
+        assert.equal(moment(a).add({d: 1}).calendar(),       'wa'leS 12:00',     'tomorrow at the same time');
         assert.equal(moment(a).subtract({h: 1}).calendar(),  'DaHjaj 11:00',     'Now minus 1 hour');
-        assert.equal(moment(a).subtract({d: 1}).calendar(),  'wa’Hu’ 12:00',     'yesterday at the same time');
+        assert.equal(moment(a).subtract({d: 1}).calendar(),  'wa'Hu' 12:00',     'yesterday at the same time');
     });
 
     test('calendar next week', function (assert) {
@@ -48349,7 +48349,7 @@
     });
 
     test('format week', function (assert) {
-        var expected = 'неділя нд нд_понеділок пн пн_вівторок вт вт_середа ср ср_четвер чт чт_п’ятниця пт пт_субота сб сб'.split('_'), i;
+        var expected = 'неділя нд нд_понеділок пн пн_вівторок вт вт_середа ср ср_четвер чт чт_п'ятниця пт пт_субота сб сб'.split('_'), i;
         for (i = 0; i < expected.length; i++) {
             assert.equal(moment([2011, 0, 2 + i]).format('dddd ddd dd'), expected[i], expected[i]);
         }

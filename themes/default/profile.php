@@ -97,7 +97,7 @@
 </div -->
 </div>
 <div class="profile-nam-tag col-xs-12 col-sm-8 col-md-9 col-lg-9 margin_top20 margin_bottom20">
-   <h1 class="profile-name">Hey, I’m Demo!</h1>
+   <h1 class="profile-name">Hey, I'm Demo!</h1>
    <h4 class="member-since">IN · Member since March 2019</h4><div class="margin_bottom10 margin_top10">I am very quite and interested in computer codes as well as Hacks.</div><div class="help-block.help-block-error"></div>        <div id="profile_reviews" class="bg_white margin_top30"> 
           <div class="mylist-profile" id="myList">
             <div class="luxury-details">
@@ -1139,7 +1139,7 @@ Load More And Show More Lists.
       </div>
       <div class="modal-body report-user-pop">
          <div class="body-report">
-               <p>Thanks for taking the time to report this user. These reports help make Airbnb better for everyone, so we take them seriously. We’ll reach out if we have questions about your report.</p>
+               <p>Thanks for taking the time to report this user. These reports help make Airbnb better for everyone, so we take them seriously. We'll reach out if we have questions about your report.</p>
          </div>
       </div>
           
