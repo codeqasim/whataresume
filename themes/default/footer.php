@@ -84,7 +84,7 @@
             <div class="col-sm-12">
               <div class="col-sm-6">
                 <div class="video-testi-img vid-tst-1">
-                  <a href="embed/utTy0KQ4D_g.html" class="fancybox" rel="ligthbox" tabindex="0">
+                  <a href="https://www.youtube.com/watch?v=KG7EVxeMpiA" class="fancybox" rel="ligthbox" tabindex="0">
                     <img src="<?php echo $theme_url;?>assets/images/vtesti-img1.png">
                     <div class="box-content">
                       <img src="<?php echo $theme_url;?>assets/images/vplay-icon.png">
@@ -94,7 +94,7 @@
               </div>
               <div class="col-sm-6">
                 <div class="video-testi-img vid-tst-2">
-                  <a href="embed/c5xOE1_Kb8g.html" class="fancybox" rel="ligthbox" tabindex="0">
+                  <a href="https://www.youtube.com/watch?v=KG7EVxeMpiA" class="fancybox" rel="ligthbox" tabindex="0">
                     <img src="<?php echo $theme_url;?>assets/images/vtesti-img2.png">
                     <div class="box-content">
                       <img src="<?php echo $theme_url;?>assets/images/vplay-icon.png">
