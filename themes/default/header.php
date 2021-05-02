@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Whata Resume Resume</title>
+        <title>What A Resume Resume</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" type="text/css" href="<?php echo $theme_url;?>assets/css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="<?php echo $theme_url;?>assets/css/animate.css">
@@ -35,9 +35,9 @@
                         <ul class="">
                             <li><a href="tel:844-640-8881"><i class="fa fa-phone" aria-hidden="true"></i>   844-640-8881</a></li>
                             <li><a href="javascript:;" onclick="buttonURL();"><i class="fa fa-comment-o" aria-hidden="true"></i> Start Live Chat</a></li>
-                            <li><a href="https://wa.me/+1-415-329-179981"><i class="fa fa-whatsapp" aria-hidden="true"></i>   Whatsapp</a></li>
+                            <li><a href="https://wa.me/+1-844-640-8881"><i class="fa fa-whatsapp" aria-hidden="true"></i>   Whatsapp</a></li>
                             <li><a href="skype:cid.6430c728aa5b64f?call"><i class="fa fa-skype" aria-hidden="true"></i> Skype</a></li>
-                            <li><a href="contact-us.php.html">Contact Us</a></li>
+                            <li><a href="<?php echo base_url(); ?>contact">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>

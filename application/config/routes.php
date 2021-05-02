@@ -18,6 +18,7 @@ $route['webpage-resume'] = "home/webpage_resume";
 $route['resume-sample'] = "home/resume_sample";
 $route['pricing'] = "home/pricing";
 $route['reviews'] = "home/reviews";
+$route['contact'] = "home/contact";
 
 $route[ADMINURL.'accounts/chagne_order'] = "admin/accounts/chagne_order";
 $route[ADMINURL.'cms/chagne_order'] = "admin/cms/chagne_order";

@@ -21,11 +21,7 @@ class Home extends MX_Controller {
     public function resume_sample() { $this->theme->view('resume_sample'); }
     public function pricing() { $this->theme->view('pricing'); }
     public function reviews() { $this->theme->view('reviews'); }
-
-    public function contact()
-    {
-    $this->theme->view('contact');
-    }
+    public function contact() { $this->theme->view('contact'); }
 
 
     public function signup()
