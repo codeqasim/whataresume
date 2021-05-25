@@ -486,21 +486,21 @@
                             <p>Our Certified Professional Resume Writers ensure that the quality of our services remain astounding and praise-worthy.</p>
                         </div>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-3">
                         <div class="satisfaction_box wow bounceInUp">
                             <img src="<?php echo $theme_url;?>assets/images/satisfaction-icon2.png">
                             <h3>SEO Optimized Resume</h3>
                             <p>Our competent and renowned resume writing services are SEO optimized to make sure you never cease to have great job opportunities approaching you.</p>
                         </div>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-3">
                         <div class="satisfaction_box wow bounceInUp">
                             <img src="<?php echo $theme_url;?>assets/images/satisfaction-icon3.png">
                             <h3>Complete Support</h3>
                             <p>We offers 24/7 customer support. All packages come with unlimited revisions to ensure are completely satisfied with your resume.</p>
                         </div>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-3">
                         <div class="satisfaction_box wow bounceInUp">
                             <img src="<?php echo $theme_url;?>assets/images/satisfaction-icon4.png">
                             <h3>Word & PDF<br>File Storage</h3>
