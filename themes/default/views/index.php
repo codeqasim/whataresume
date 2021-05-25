@@ -13,7 +13,7 @@
                       <div><h1>Career Coaching Services</h1></div>
                       <div><h1>Job Profiling <br>Services</h1></div>
                       <div><h1>Webpage Resume Services</h1></div> -->
-                    <h1 class="cd-headline letters rotate-2"> <span class="cd-words-wrapper"> <b class="is-visible">Resume Writing </b> <b>Cover Letter Writing </b> <b>LinkedIn Optimization </b> <b>Career Coaching </b> <b>Job Profiling </b> <b>Webpage Resume </b> </span> Service </h1>
+                    <h1 style="font-size:34px" class="cd-headline letters rotate-2"> <span class="cd-words-wrapper"> <b class="is-visible">Resume Writing </b> <b>Cover Letter Writing </b> <b>LinkedIn Optimization </b> </span> Service </h1>
                   </div>
                   <ul class="">
                     <li><i class="fa fa-check"></i> Experienced Writers & Impressive Resources</li>
@@ -36,7 +36,7 @@
           </div>
         </div>
       </div>
-      <section class="sec_client">
+      <!--<section class="sec_client">
         <div class="container">
           <div class="row ">
             <div class="client_logos_boxes rubberBand">
@@ -74,7 +74,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section>-->
       <section class="sec_turbo">
         <div class="container">
           <h2 class="heading wow bounceIn">Turbo Charge Your Job Searching</h2>
@@ -84,7 +84,7 @@
           <div class="row">
             <div class="turbo-inner">
               <div class="col-md-12 wow bounceInUp">
-                <div class="col-md-4 col-md-offset-2">
+                <div class="col-md-6">
                   <div class="turbo-boxes">
                     <img src="<?php echo $theme_url;?>assets/images/turbo-icon1.png">
                     <div class="turbo-box  turbo-box4">
@@ -92,7 +92,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-6">
                   <div class="turbo-boxes">
                     <img src="<?php echo $theme_url;?>assets/images/turbo-icon2.png">
                     <div class="turbo-box turbo-box4">
@@ -102,7 +102,7 @@
                 </div>
               </div>
               <div class="col-md-12 wow bounceInUp">
-                <div class="col-md-4">
+                <div class="col-md-6">
                   <div class="turbo-boxes">
                     <img src="<?php echo $theme_url;?>assets/images/turbo-icon3.png">
                     <div class="turbo-box turbo-box4">
@@ -110,15 +110,15 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-md-4">
+                <!--<div class="col-md-4">
                   <div class="turbo-boxes">
                     <img src="<?php echo $theme_url;?>assets/images/turbo-icon4.png">
                     <div class="turbo-box turbo-box4">
                       <h4>24/7 Support</h4>
                     </div>
                   </div>
-                </div>
-                <div class="col-md-4">
+                </div>-->
+                <div class="col-md-6">
                   <div class="turbo-boxes">
                     <img src="<?php echo $theme_url;?>assets/images/turbo-icon5.png">
                     <div class="turbo-box turbo-box4">
@@ -131,103 +131,10 @@
           </div>
         </div>
       </section>
-      <section class="detect_types_sec">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-10">
-              <div class="detect_types_boxes">
-                <div class="detect_types_box wow bounceInUp">
-                  <h2 class="heading">Why Use our Professional <br>
-                    Resume Writing Services?
-                  </h2>
-                  <p>Your resume is one of the most important tools when it comes to your career and professional development. A huge number of professionals looking for their dream jobs have no idea where to start, what to include, and what to leave off in their CVs and resumes. That's where we come in. Our team of expert resume and CV writers, and developers can professionally curate and craft your successful career stories and enable you to target the job you want.</p>
-                  <div class="button"> <a href="javascript:;" class="btn-org fill various viewMain" tabindex="-1" onclick="order_now_value(this)" name="for $149">Request Free Resume Review</a> <a href="javascript:;" onclick="buttonURL();" class="btn-org-bd fill">Live Chat</a> </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section class="sec_package">
-        <div class="container">
-          <div class="row">
-            <h2 class="heading  wow bounceIn">Our Packages</h2>
-            <div class="package-inner">
-              <div class="col-md-4">
-                <div class="package_boxes wow bounceInLeft">
-                  <h3>STARTUP</h3>
-                  <p>An expertly written and keyword-optimized resume that sets you apart.</p>
-                  <div class="package_price">
-                    <h2><span class="currency_symbol">$</span>69 <del>$199</del></h2>
-                  </div>
-                  <ul>
-                    <li>Custom Written Cover Letter</li>
-                    <li>Keyword Optimized</li>
-                    <li>Unlimited Revisions</li>
-                    <li>ATS Approved</li>
-                    <li>Free Consultation with Expert</li>
-                    <li>100% Money-Back Guarantee</li>
-                    <li>100% Satisfaction Guarantee</li>
-                  </ul>
-                  <div class="button">
-                    <a href="javascript:;" class=" various fill viewMain" tabindex="-1" onclick="order_now_value(this)" name="for $69">Select this package</a>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="package_boxes package_boxes_center  wow bounceInUp">
-                  <!-- <h5>Most popular</h5> -->
-                  <img src="<?php echo $theme_url;?>assets/images/saller_icon.png" class="saller_icon">
-                  <h3>Career Evolution</h3>
-                  <p>Everything you need to apply to jobs, including a resume and cover letter.</p>
-                  <div class="package_price">
-                    <h2><span class="currency_symbol">$</span>169 <del>$299</del></h2>
-                  </div>
-                  <ul>
-                    <li>Custom Written Cover Letter</li>
-                    <li>Resume addition</li>
-                    <li>Custom design</li>
-                    <li>Keyword Optimized</li>
-                    <li>Unlimited Revisions</li>
-                    <li>ATS Approved</li>
-                    <li>Free Consultation with Expert</li>
-                    <li>100% Money-Back Guarantee</li>
-                    <li>100% Satisfaction Guarantee</li>
-                  </ul>
-                  <div class="button">
-                    <a href="javascript:;" class="btn-org various fill viewMain" tabindex="-1" onclick="order_now_value(this)" name="for $169">Select this package</a>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="package_boxes  wow bounceInRight">
-                  <h3>Professional Growth</h3>
-                  <p>An expertly written and keyword-optimized resume that sets you apart.</p>
-                  <div class="package_price">
-                    <h2><span class="currency_symbol">$</span>239 <del>$399</del></h2>
-                  </div>
-                  <ul>
-                    <li>Custom Written Cover Letter</li>
-                    <li>Resume addition</li>
-                    <li>Custom design</li>
-                    <li>Thank You & Follow up Letter </li>
-                    <li>Optimized LinkedIn Profile</li>
-                    <li>Keyword Optimized</li>
-                    <li>Unlimited Revisions</li>
-                    <li>ATS Approved</li>
-                    <li>Free Consultation with Expert</li>
-                    <li>100% Money-Back Guarantee</li>
-                    <li>100% Satisfaction Guarantee</li>
-                  </ul>
-                  <div class="button">
-                    <a href="javascript:;" class=" various fill viewMain" tabindex="-1" onclick="order_now_value(this)" name="for $239">Select this package</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+
+      <?php include "why_use.php";?>
+      <?php include "pricing_view.php";?>
+
       <section class="sec_resume ">
         <div class="container-fluid">
           <div class="row">
@@ -563,6 +470,55 @@
         </div>
       </div>
 
+      <section class="sec_turbo">
+        <div class="container">
+            <h2 class="heading wow bounceIn">Why Choose Us?</h2>
+            <!--<p class="para wow bounceIn">
+             A remarkable resume is one of the most essential tools of scoring any job you desire. With WhataResume, you no longer have to worry about what you must add in your resume and what should be left out for our professional team of CV and resume writing experts are here to help you out.
+            </p>-->
+
+            <div class="row">
+                <div class="satisfaction_boxes">
+                    <div class="col-sm-3">
+                        <div class="satisfaction_box wow bounceInUp">
+                            <img src="<?php echo $theme_url;?>assets/images/satisfaction-icon1.png">
+                            <h3>Certified Professionals</h3>
+                            <p>Our Certified Professional Resume Writers ensure that the quality of our services remain astounding and praise-worthy.</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="satisfaction_box wow bounceInUp">
+                            <img src="<?php echo $theme_url;?>assets/images/satisfaction-icon2.png">
+                            <h3>SEO Optimized Resume</h3>
+                            <p>Our competent and renowned resume writing services are SEO optimized to make sure you never cease to have great job opportunities approaching you.</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="satisfaction_box wow bounceInUp">
+                            <img src="<?php echo $theme_url;?>assets/images/satisfaction-icon3.png">
+                            <h3>Complete Support</h3>
+                            <p>We offers 24/7 customer support. All packages come with unlimited revisions to ensure are completely satisfied with your resume.</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="satisfaction_box wow bounceInUp">
+                            <img src="<?php echo $theme_url;?>assets/images/satisfaction-icon4.png">
+                            <h3>Word & PDF<br>File Storage</h3>
+                            <p>We provide lifetime file storage in multiple platforms and downloadable files of CV and resumes for all our candidates and professionals</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="button satisfaction_box_btn wow bounceInUp">
+                            <a href="javascript:;" class="btn-org fill various viewMain" tabindex="-1" onclick="order_now_value(this)" name="for $149">Request Free Resume Review</a>
+                            <a href="javascript:;" onclick="buttonURL();" class="btn-org-bd fill">Live Chat</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
       <div class="cta_home_blue">
         <section class="sec_cta ">
           <div class="container">
@@ -583,6 +539,8 @@
           </div>
         </section>
       </div>
+
+
       <section class="plagiarism_works_sec">
         <div class="container">
           <h2 class="heading wow bounceIn">Our Core Services</h2>
@@ -591,7 +549,7 @@
           </p>
           <div class="row">
             <div class="plagiarism_works_boxes">
-              <div class="col-sm-3">
+              <div class="col-sm-4">
                 <div class="plagiarism_works_box wow bounceInLeft">
                   <a href="#">
                     <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon1.png" alt="Upload your document">
@@ -600,7 +558,7 @@
                   </a>
                 </div>
               </div>
-              <div class="col-sm-3">
+              <div class="col-sm-4">
                 <div class="plagiarism_works_box wow bounceInUp">
                   <a href="#">
                     <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon2.png" alt="Advanced Plagiarism Checking Technology">
@@ -609,57 +567,12 @@
                   </a>
                 </div>
               </div>
-              <div class="col-sm-3">
+              <div class="col-sm-4">
                 <div class="plagiarism_works_box wow bounceInUp">
                   <a href="#">
                     <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon6.png" alt="Comprehensive Plagiarism Database">
                     <h3>LinkedIn Profile Writing</h3>
                     <p>Confidently network online, build industry influence and drive employment opportunities with a professionally written LinkedIn profile</p>
-                  </a>
-                </div>
-              </div>
-              <div class="col-sm-3">
-                <div class="plagiarism_works_box wow bounceInRight">
-                  <a href="#">
-                    <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon4.png" alt="Safe, Secure and Confidential">
-                    <h3>Career Coaching & Development</h3>
-                    <p>Our career coaches can provide you with the guidance and the expert assistance you need to unlock your future potential</p>
-                  </a>
-                </div>
-              </div>
-              <div class="col-sm-3">
-                <div class="plagiarism_works_box wow bounceInLeft">
-                  <a href="#">
-                    <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon5.png" alt="Upload your document">
-                    <h3>Job Profiling Services</h3>
-                    <p>With our structured job profiling process, you as a recruiter can draw up accurate job profiles and as a candidate utilize the diverse range of job portals online</p>
-                  </a>
-                </div>
-              </div>
-              <div class="col-sm-3">
-                <div class="plagiarism_works_box wow bounceInUp">
-                  <a href="#">
-                    <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon3.png" alt="Advanced Plagiarism Checking Technology">
-                    <h3>Entry Level Resume Writing Service</h3>
-                    <p>Our Certified Professional Resume Writers and Career Coaches work round the clock eminently to put you on show in front of your prospective employers.</p>
-                  </a>
-                </div>
-              </div>
-              <div class="col-sm-3">
-                <div class="plagiarism_works_box wow bounceInUp">
-                  <a href="#">
-                    <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon7.png" alt="Comprehensive Plagiarism Database">
-                    <h3>Professional Bio Development</h3>
-                    <p>Our bio writing service has been designed in such a way that we have a variety of different writers at your disposal that are experts in your specific industry</p>
-                  </a>
-                </div>
-              </div>
-              <div class="col-sm-3">
-                <div class="plagiarism_works_box wow bounceInRight">
-                  <a href="#">
-                    <img src="<?php echo $theme_url;?>assets/images/plagiarism-works-icon8.png" alt="Safe, Secure and Confidential">
-                    <h3>Web-Based Resume Development Service </h3>
-                    <p>Display your skills, accomplishments and share your story with your recruiters through a strong digital presence.</p>
                   </a>
                 </div>
               </div>

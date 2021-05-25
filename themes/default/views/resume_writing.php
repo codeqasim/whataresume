@@ -81,11 +81,12 @@
     </section>
     <section class="sec_turbo">
         <div class="container">
-            <h2 class="heading wow bounceIn">Results that Speak for Themselves</h2>
-            <p class="para wow bounceIn">Make a strong first impression with our impeccable resume writing service personalized by certified experts who specialize in various industries and career situations. We scan your resume using similar recruiting software such as the Fortune 500 companies to ensure higher job rates and ATS compatibility.
-                Whether you are looking to create your resume from scratch or have an existing resume for reference, we can help. The best thing about our resume writing services is that we consult with you, accept your goals, analyze your background, categorize relevant details while developing a strategic approach and producing new content for your resume seamlessly.
+            <h2 class="heading wow bounceIn">Leading Professional Resume Writing Service Providers Online</h2>
+            <p class="para wow bounceIn">
+             A remarkable resume is one of the most essential tools of scoring any job you desire. With WhataResume, you no longer have to worry about what you must add in your resume and what should be left out for our professional team of CV and resume writing experts are here to help you out.
             </p>
-            <div class="row">
+
+            <!--<div class="row">
                 <div class="satisfaction_boxes">
                     <div class="col-sm-3">
                         <div class="satisfaction_box wow bounceInUp">
@@ -122,9 +123,32 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>-->
         </div>
     </section>
+
+    <div class="cta_home_blue">
+                <section class="sec_cta ">
+                    <div class="container">
+                        <div class="">
+                            <div class="cta_inner wow rubberBand">
+                                <h2 class="heading">??Find more information about our professional and accurate resume writing services by getting in touch with our experts. </h2>
+                                <div class="button">
+                                    <a class="btn-org fill" href="tel:844-640-8881"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp;
+                                    844-640-8881</a>
+                                    <a href="javascript:;" onclick="buttonURL();" class="btn-org btn-white fill"> <i class="fa fa-commenting-o" aria-hidden="true"></i> &nbsp;
+                                    Live Chat</a>
+                                    <a class=" btn_green fill" href="https://wa.me/+1-415-329-179981" target="_blank" style="">
+                                    <i class="fa fa-whatsapp" aria-hidden="true"></i> &nbsp; Whatsapp</a>
+                                    <a href="skype:cid.6430c728aa5b64f?call" class="btn_skyb  fill" style=""> <i class="fa fa-skype" aria-hidden="true"></i> &nbsp; Skype</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+
     <section class="sec_package">
         <div class="container">
             <div class="row">

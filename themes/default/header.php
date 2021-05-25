@@ -64,12 +64,12 @@
                                     <li><a href="<?php echo base_url(); ?>resume-writing">Resume Writing</a></li>
                                     <li><a href="<?php echo base_url(); ?>cover-letter-writing">Cover Letter Writing</a></li>
                                     <li><a href="<?php echo base_url(); ?>linkedin-profile-writing">Linkedin Profile Writing</a></li>
-                                    <li><a href="<?php echo base_url(); ?>career-coaching">Career Coaching</a></li>
+                                    <!--<li><a href="<?php echo base_url(); ?>career-coaching">Career Coaching</a></li>
                                     <li><a href="<?php echo base_url(); ?>job-profiling">Job Profiling</a></li>
-                                    <li><a href="<?php echo base_url(); ?>webpage-resume">Webpage Resume</a></li>
+                                    <li><a href="<?php echo base_url(); ?>webpage-resume">Webpage Resume</a></li>-->
                                 </ul>
                             </li>
-                            <li><a href="<?php echo base_url(); ?>resume-sample">Resume Samples</a></li>
+                            <!--<li><a href="<?php echo base_url(); ?>resume-sample">Resume Samples</a></li>-->
                             <li><a href="<?php echo base_url(); ?>pricing">Pricing</a></li>
                             <li><a href="<?php echo base_url(); ?>reviews">Reviews</a></li>
                             <li><a href="javascript:;" class="btn-org fill viewMain" tabindex="-1" onclick="order_now_value(this)" name="for $149">Get Started</a></li>

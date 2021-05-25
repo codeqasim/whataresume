@@ -73,7 +73,7 @@
           </div>
         </div>
       </section>
-      <section class="vid_testimonial">
+      <!--<section class="vid_testimonial">
         <div class="container">
           <div class="row">
             <div class="col-sm-12">
@@ -116,7 +116,7 @@
           <div class="col-reviews-certificate"> <img src="<?php echo $theme_url;?>assets/images/reviews_badges_icon5.jpg" class="img-responsive" alt="100% Satisfaction Guaranteed"> </div>
           <div class="col-reviews-certificate"> <img src="<?php echo $theme_url;?>assets/images/reviews_badges_icon6.jpg" class="img-responsive" alt="100% Satisfaction Guaranteed"> </div>
         </div>
-      </div>
+      </div>-->
       <section class="section-padding gray_bg get_quote">
         <div class="container">
           <div class="row">
